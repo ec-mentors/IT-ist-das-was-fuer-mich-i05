@@ -43,10 +43,9 @@
     <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script src="_static/translations.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <link rel="shortcut icon" href="_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="genindex.html" />
     <link rel="search" title="Suche" href="search.html" />
-    <link rel="next" title="Selber Lernen" href="learning.html" />
-    <link rel="prev" title="Raspberry PI" href="raspberrypi.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="de">
     
@@ -83,6 +82,11 @@
         <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/ec_logo.png" class="logo" alt="logo">
       
       
       <h1 class="site-logo" id="site-title">Arbeitsmaterialien für Berufsorientierung IT</h1>
@@ -98,7 +102,7 @@
   Arbeitsmaterialien für den Kurs
  </span>
 </p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="course/index.html">
    Kursmaterialien
@@ -124,6 +128,41 @@
      Tag 3: Aufgaben, Anleitungen, Algorithmen
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_04_soft_skills_growth_mindset/index.html">
+     Tag 4: Soft Skills - Growth Mindset
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_05_laptop_setup_keyboard_shortcuts_and_researching_hardware/index.html">
+     Tag 5: Unsere Laptops und andere Hardware
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_06_to_10_lego_robots/index.html">
+     Tag 6 bis 10: Lego Roboter EV3
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_11_soft_skills_presentation_skills/index.html">
+     Tag 11: Kommunikation und Präsentation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_12_to_18_microbit_intro/index.html">
+     Tag 12 bis 18: Raspberry PI und BBC micro:bit Intro
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_19_to_24_project_week/index.html">
+     Tag 19 bis 24: Projektwoche
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="course/day_25_finale/index.html">
+     Tag 25: Frühstück, Abschluss und Ausblick
+    </a>
+   </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
@@ -146,36 +185,6 @@
  <li class="toctree-l1">
   <a class="reference internal" href="mode.html">
    Zusammenarbeit
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="lego/index.html">
-   Lego Mindstorms
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="raspberrypi.html">
-   Raspberry PI
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Website
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="learning.html">
-   Selber Lernen
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="orientation.html">
-   Berufsorientierung
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="education.html">
-   Bildungswege
   </a>
  </li>
  <li class="toctree-l1">
@@ -440,7 +449,7 @@ Anwendung kommen.</p>
 <span id="markdown-target"></span><h2>Markdown als Vorstufe zu HTML<a class="headerlink" href="#markdown-als-vorstufe-zu-html" title="Link zu dieser Überschrift">#</a></h2>
 <div class="exercise admonition" id="exercise-markdown">
 
-<p class="admonition-title"><span class="caption-number">Exercise 3 </span> (Markdown kennen lernen (15 Minuten))</p>
+<p class="admonition-title"> (Markdown kennen lernen (15 Minuten))</p>
 <section id="exercise-content">
 <p>Was ist Markdown?</p>
 <p>Wirf zuerst einen Blick auf die <a class="reference external" href="https://de.wikipedia.org/wiki/Markdown">Wikipedia Seite</a>.</p>
@@ -484,7 +493,7 @@ die Seite neu zusammen gebaut und aktualisiert.</p>
 wissen, wie die Website im Detail funktioniert.</p>
 <div class="exercise admonition" id="exercise-github-user-account">
 
-<p class="admonition-title"><span class="caption-number">Exercise 4 </span> (User Account für <a class="reference external" href="http://GitHub.com">GitHub.com</a>)</p>
+<p class="admonition-title"> (User Account für <a class="reference external" href="http://GitHub.com">GitHub.com</a>)</p>
 <section id="exercise-content">
 <p>Nicht jede Person kann die Inhalte der Website ändern.
 Dazu braucht es bestimmte Berechtigungen.</p>
@@ -499,7 +508,7 @@ Für jede Seite auf unserer Website gibt es auch eine Datei in diesem Ordner.</p
 kannst du einen Blick hinter die Kulissen werfen.</p>
 <div class="exercise admonition" id="exercise-update-personal-page">
 
-<p class="admonition-title"><span class="caption-number">Exercise 5 </span> (Update der persönlichen Kursseite)</p>
+<p class="admonition-title"> (Update der persönlichen Kursseite)</p>
 <section id="exercise-content">
 <p>Sobald du Zugriff auf die Website hast, kannst du Änderungen
 an den Dateien vornehmen.</p>
@@ -522,7 +531,7 @@ Unsere Kursseite ist nur eine Möglichkeit und wir wollen euch die Gelegenheit
 geben, hier einen Blick hinein zu werfen.</p>
 <div class="exercise admonition" id="exercise-update-personal-page-properly">
 
-<p class="admonition-title"><span class="caption-number">Exercise 6 </span> (Persönliche Kursseite als Mini-Lebenslauf)</p>
+<p class="admonition-title"> (Persönliche Kursseite als Mini-Lebenslauf)</p>
 <section id="exercise-content">
 <p>Wir werden die Kursseite nutzen, um einen stichwortartigen Lebenslauf
 von euch anzulegen.</p>
@@ -555,12 +564,45 @@ ein weit verbreitetes Werkzeug ist <a class="reference external" href="https://c
 findest du hier.</p>
 <section id="mini-index-html">
 <h3>mini_index.html<a class="headerlink" href="#mini-index-html" title="Link zu dieser Überschrift">#</a></h3>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>title<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;mini_style.css&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;script.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Header Text in h1 Tags<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+    <span class="cm">&lt;!-- page content --&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+</div>
 </section>
 <section id="mini-style-css">
 <h3>mini_style.css<a class="headerlink" href="#mini-style-css" title="Link zu dieser Überschrift">#</a></h3>
+<div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="nt">body</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">background-color</span><span class="p">:</span><span class="w"> </span><span class="kc">lightblue</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">h1</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">white</span><span class="p">;</span>
+<span class="w">    </span><span class="k">text-align</span><span class="p">:</span><span class="w"> </span><span class="kc">center</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">font-family</span><span class="p">:</span><span class="w"> </span><span class="n">verdana</span><span class="p">;</span>
+<span class="w">    </span><span class="k">font-size</span><span class="p">:</span><span class="w"> </span><span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
 <div class="exercise admonition" id="exercise-create-minimal-website">
 
-<p class="admonition-title"><span class="caption-number">Exercise 7 </span> (Minimale Webseite erstellen)</p>
+<p class="admonition-title"> (Minimale Webseite erstellen)</p>
 <section id="exercise-content">
 <p>Speichere die oben gezeigten Texte jeweils als eigene Datei
 in einem gemeinsamen Ordner und öffne die HTML-Datei in einem Browser.</p>
@@ -585,20 +627,6 @@ in einem gemeinsamen Ordner und öffne die HTML-Datei in einem Browser.</p>
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="raspberrypi.html" title="zurück Seite">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">zurück</p>
-            <p class="prev-next-title">Raspberry PI</p>
-        </div>
-    </a>
-    <a class='right-next' id="next-link" href="learning.html" title="weiter Seite">
-    <div class="prev-next-info">
-        <p class="prev-next-subtitle">weiter</p>
-        <p class="prev-next-title">Selber Lernen</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
-    </a>
 </div>
             </footer>
         </div>
