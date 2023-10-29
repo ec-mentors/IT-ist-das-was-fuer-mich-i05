@@ -10,18 +10,18 @@ course/index
 participants/index
 mode
 
-% lego/index
-% raspberrypi
-% microbit/index
-% website
-% projects/projects
-% learning
+lego/index
+raspberrypi
+microbit/index
+website
+projects/projects
+learning
 
-% orientation
-% education
-% guests/guests
+orientation
+education
+guests/guests
 
 contact
 ```
 
-**🚧 Diese Seite wird im Laufe des Kurses kontinuierlich aktualisiert. 👷‍♀️**
+🚧 **Diese Seite wird im Laufe des Kurses kontinuierlich aktualisiert.** 👷‍♀️
