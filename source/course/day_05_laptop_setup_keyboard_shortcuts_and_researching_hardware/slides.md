@@ -2,7 +2,7 @@
 marp: true
 theme: default
 header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Claus Aichinger & Olga Drewitz (it-orientation@everyonecodes.io)'
+footer: 'IT, ist das was für mich? Slides von Claus Aichinger, Olga Drewitz & Rea Sutter (it-orientation@everyonecodes.io)'
 paginate: true
 ---
 
@@ -31,8 +31,6 @@ paginate: true
 - Fortsetzung von gestern
 - Aufgaben beschreiben
 - Anleitungen erstellen
-
-<!-- - Eine Aufgabe für Olga's Roboter ausarbeiten -->
 
 ---
 
@@ -125,12 +123,10 @@ In der Gruppe:
 1. Besprechen: Was ist das Ding? Wie baut man es?
 1. Ausarbeiten: Erstellt eine Anleitung zum Nachbau (für eine andere Gruppe)
 
-Danach: eine andere Gruppe versucht gemäß eurer Anleitung das Ding nachzubauen.
+Dann: eine andere Gruppe versucht gemäß eurer Anleitung das Ding nachzubauen.
 
 Danach: Nachbesprechung
-
 <!--
-
 ---
 
 #### Welche Keyboard Shortcuts waren praktisch?
@@ -196,10 +192,7 @@ Gut zu wissen:
 - Wie organisieren wir unseren Browser?
 - Kennt ihr Keyboard-Shortcuts?
 - Wie merken wir uns, was wir tun?
-
-
 -->
-
 ---
 
 ## Outro 🌆

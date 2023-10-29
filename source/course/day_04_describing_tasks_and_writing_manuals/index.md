@@ -14,4 +14,4 @@ dass eine andere Person die von uns gewünschte Tätigkeit ausführen kann.
 
 Bevor es richtig los geht, wiederholen wir, was wir gestern gemacht haben.
 
-{download}`🎬 Slides <./slides.pdf>`
+% {download}`🎬 Slides <./slides.pdf>`
