@@ -8,4 +8,4 @@ besprechen, wie die kommenden Wochen aussehen.
 Auf administrativer Ebene werden wir auch ein paar Dinge erledigen, damit
 wir uns später nicht mehr darum kümmern müssen.
 
-% {download}`Slides <./Tag01_Intro_Kennenlernen_Admin.pptx.pdf>`
+{download}`Slides <./Tag01_Intro_Kennenlernen_Admin.pptx.pdf>`
