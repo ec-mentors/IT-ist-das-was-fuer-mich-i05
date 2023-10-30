@@ -8,7 +8,7 @@ theme: default
 
 ## Was uns im Kurs wichtig ist
 
-![Was ist uns wichtig!? Poster aus dem Kurs]()
+![Was ist uns wichtig!? Poster aus dem Kurs](_static/Zusammenarbeit_Poster.jpg)
 
 ## Hausregeln
 
