@@ -159,3 +159,12 @@ For example like this:
 ```console
 $ convert original.jpg -quality 50% compressed.jpg
 ```
+
+### Creating Participant Pages
+
+* add all participants' names to ```internal.py```
+* run
+
+```console
+$ python3 internal.py
+```
