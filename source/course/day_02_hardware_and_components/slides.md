@@ -119,7 +119,6 @@ Beantwortet in Gruppen folgende Fragen:
   - Zusammenhänge
   - Innenleben
 - Viele wichtige Begriffe
-- Laptops und Webseite kennen gelernt
 
 ---
 
