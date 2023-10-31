@@ -1,20 +1,21 @@
 #%%
 participants = [
-"özlem-celik",
-"rasha-aboeed",
-"rama-al jaradat",
-"edel-faizief",
-"razia-nazari",
-"aleksandra-skrodziuk",
-"lesina-haicharoeva",
-"fehime-gül-dikmen",
-"michelle-lehner",
-"fatima-haidari",
-"hadischat-rashapova",
-"michelle-chvojka",
-"nyima-conteh",
-"sarah-amjad-bhatti",
-"kenda-tahle",
+"mohadesa-abdullahi",
+"denise-argyropoulos",
+"amina-bijbulatova",
+"dalya-dalfi",
+"iman-germekhanova",
+"zakiye-hojati",
+"marcella-loidl",
+"neelam-malik",
+"mahsa-mohammadi",
+"melina-muratovic",
+"zynet-nasser",
+"samira-schachabova",
+"sara-soukkar",
+"aisha-yousaf",
+"hala-zarzory",
+"dajana-zivanovic"
 ]
 #%%
 import os
