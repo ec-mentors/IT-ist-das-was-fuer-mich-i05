@@ -7,8 +7,5 @@ Beschreibung was wir an diesem Tag vor haben.
 :maxdepth: 1
 :glob:
 
-day_01*/index
-day_02*/index
-day_03*/index
-day_04*/index
+day_0[1-4]*/index
 ```
