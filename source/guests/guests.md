@@ -9,7 +9,7 @@ die sich für uns Zeit nehmen damit wir sie ein bisschen kennen
 lernen und dadurch Einblicke in ihre persönliche Geschichte nehmen
 können.
 
-<img src="./i04_guest_JuliaMittas.jpg" alt="">
+<!-- <img src="./i04_guest_JuliaMittas.jpg" alt="">
 
 ## Game Dev (Sophie Amelien)
 
@@ -34,7 +34,6 @@ Verfügung zu stellen:
 Hier noch die alten Versionen:
 * {download}`Game Dev Ausbildungen in Österreich (2022)<../_static/AusbildungenInOesterreich.pdf>`
 * {download}`Game Dev Jobs in der Spieleindustrie (2022)<../_static/JobsInDerSpieleIndustrie.pdf>`
-
 
 ## Projektleiterin und Scrum Master (Dagmar Labes)
 
@@ -87,7 +86,6 @@ Fragen:p
 - Welche Fragen möchtest du Julia stellen?
 ```
 
-
 ## Ehemalige Teilnehmerinnen
 
 ```{exercise} Gastvortragende: Ehemalige Teilnehmerinnen
@@ -103,4 +101,4 @@ Was konnten sie aus dem Kurs für sich mitnehmen?
 Für solche Fragen ist Zeit, wenn sie zu uns auf Besuch kommen.
 
 Gibt es noch andere Fragen, die du stellen möchtest?
-```
+``` -->
