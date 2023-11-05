@@ -3,4 +3,5 @@
 Heute steht "Growth Mindset" am Programm:
 
 * {download}`🎬 Slides <./slides.pdf>`
-* {download}`🗒️ Arbeitsblatt <./worksheet.pdf>`
+* {download}`🗒️ Stationen <./stationen.pdf>`
+* {download}`🗒️ Glaubenssätze <./glaubenssaetze.pdf>`
