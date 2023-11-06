@@ -2,6 +2,8 @@
 
 **Wir programmieren!** 🤓 📝
 
+{download}`🎬 Slides <./slides.pdf>`
+
 <!--
 **Tag 5**
 
