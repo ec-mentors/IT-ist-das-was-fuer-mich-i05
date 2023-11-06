@@ -98,6 +98,20 @@ Beantwortet in Gruppen folgende Fragen:
 
 ---
 
+### Kennzahlen, Einheiten
+
+- Prozessor: Hertz, Abkürzung Hz (Wie schnell?)
+- Arbeitsspeicher: Byte, Abkürzung: B (wie groß?)
+- Festplatte: Byte, Abkürzung: B (wie groß?)
+
+**Vorsilben:**
+
+- Kilo, k: mal 1000
+- Mega, M: mal 1000 000
+- Giga, G: mal 1000 000 000
+
+---
+
 ## Was haben wir heute gelernt? 📝
 
 ## Begriffe & Zusammenhänge
