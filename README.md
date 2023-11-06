@@ -163,7 +163,7 @@ $ convert original.jpg -quality 50% compressed.jpg
 ### Creating Participant Pages
 
 * add all participants' names to ```internal.py```
-* run
+* run the py script
 
 ```console
 $ python3 internal.py
