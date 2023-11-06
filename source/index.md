@@ -14,7 +14,7 @@ lego/index
 % raspberrypi
 % microbit/index
 website
-% projects/projects
+projects/projects
 learning
 
 orientation
