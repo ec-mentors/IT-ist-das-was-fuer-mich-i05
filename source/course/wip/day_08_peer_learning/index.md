@@ -1,17 +1,15 @@
 # Tag 8: Peer Learning
 
-Gratulation zur ersten Kurswoche! 🎊
+Gratulation zur zweiten Kurswoche! 🎊
 
 Heute steht Peer Learning am Programm.
-
 
 ```{include} ../_peer_learning.md
 ```
 
-Wir haben uns einige Übungen überlegt. Die erste Aufgabe kannst du alleine lösen, die anderen gemeinsam mit deinem Partner. Es gibt zwei Pflicht-Aufgaben, wenn du fertig bist kannst du dich weiter mit dem Roboter beschäftigen.
+Wir haben uns einige Übungen überlegt. Die erste Aufgabe kannst du alleine lösen, die anderen gemeinsam mit deiner Partnerin. Es gibt zwei Pflicht-Aufgaben, wenn du fertig bist kannst du dich weiter mit dem Roboter beschäftigen.
 
-
-```{exercise} Wie war die erste Woche in der IT?
+```{exercise} Wie war die zweite Woche in der IT?
 :label: exercise-motivation-it-1
 
 Beantworte dazu folgende Fragen über dich:
@@ -22,19 +20,20 @@ Beantworte dazu folgende Fragen über dich:
 Beantworte die Aufgabe in diesem [Dokument](https://docs.google.com/document/d/1dKgmetiFjD2mPO-XZtkE3cUOAuMFajKl5XThaHb68MI/edit?usp=sharing).
 ```
 
-
 ```{exercise} LEGO MINDSTORMS Weltraum Expedition
 :label: exercise-design-an-algorithm
 
-In dieser Aufgabe werden alle Dinge, die du gelernt hast, zu einem vereint und ist schon fast ein kleines Projekt.
+In dieser Aufgabe werden alle Dinge, die du gelernt hast, vereint. Das ist schon ein richtiges Projekt!
+
 Projektbeschreibung:
+
 - Suche dir auf dem Spielfeld eine Aufgabe aus, die gerne lösen möchtest.
-- Beschreibe die Aufgabe: was ist zu tun?
-- Beschreibe was du brauchst um die Aufgabe zu lösen: was brauch ich?
-- Überlege dir eine Lösung (Anleitung): was muss der Roboter machen?
+- Beschreib die Aufgabe: was ist zu tun?
+- Beschreib, was du brauchst um die Aufgabe zu lösen: was brauch ich?
+- Überleg dir eine Lösung (Anleitung): was muss der Roboter machen?
 - Programmier die Lösung
 
-Du wirst deine Arbeit am Montag dem Claus zeigen. Sei also bereit dafür, dass du deine Arbeit erklären/präsentieren kannst.
+Du wirst deine Arbeit am Montag Rea vorstellen. Sei also bereit dafür, dass du deine Arbeit erklären/präsentieren kannst.
 
 Dokumentiert euer Erlebnis:
 
@@ -48,7 +47,7 @@ Dokumentiert euer Erlebnis:
 
 -[Nergiz](https://docs.google.com/document/d/173QE4PcCrh80tCDfO6XzV55rvWuhuzocw4ff1_n0gek/edit?usp=sharing).
 
--[Gamze](https://docs.google.com/document/d/1C2EVHjLjwcMl8mzEJoBtnwNYUWd0AIKWOtBnrGPfj9E/edit?usp=sharing).
+-[Gamze](https://docs.google.com/document/d/1C2EVHjLjzeigenwcMl8mzEJoBtnwNYUWd0AIKWOtBnrGPfj9E/edit?usp=sharing).
 
 -[Beyza](https://docs.google.com/document/d/1S_IJGVzKlRoRHMIvrdajbH7rsfD75GlR658BIt2odAE/edit?usp=share_link).
 

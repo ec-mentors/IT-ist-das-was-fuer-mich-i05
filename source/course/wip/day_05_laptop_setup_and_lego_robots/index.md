@@ -11,11 +11,11 @@ Das haben wir heute vor:
 * Laptops in Betrieb nehmen
   * WLAN
   * Lego Software
+  * Was sind ihre Kennzahlen?
 * Shortcuts
   * Welche kennen wir?
   * Warum sind die nützlich?
   * Welche weiteren Shortcuts wären praktisch?
-* Aktuelle Angebote (Laptop und Smartphone) verstehen
-  und einordnen können
+* Lego Roboter kennen lernen
 
 {download}`🎬 Slides <./slides.pdf>`
