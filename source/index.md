@@ -1,6 +1,8 @@
 # IT, ist das was für mich?
 
-% ![Participants (and others not on the picture)](./participants/group_picture_i03.jpeg)
+## Wir sind die IT-Girls!
+
+ <img src="./participants/i5_Gruppenfoto.jpg" height="300px">
 
 ```{toctree}
 :caption: Arbeitsmaterialien für den Kurs
