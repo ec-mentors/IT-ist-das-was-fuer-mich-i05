@@ -2,6 +2,8 @@
 
 **Wir programmieren!** 🤓 📝
 
+<img src="./lego-challenge-1.jpeg">
+
 {download}`🎬 Slides <./slides.pdf>`
 
 <!--
