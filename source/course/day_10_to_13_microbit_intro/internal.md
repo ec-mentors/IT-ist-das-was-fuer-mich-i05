@@ -22,4 +22,4 @@ Fachlicher Inhalt siehe Website.
 * "Links" sind schon fertig während "rechts" in einem Teilschritt hängt.
 * Microbit Classroom Feature ist praktisch, Problem war aber weniger das Erstellen als vielmehr das Kopieren des Programms.
 * Auf drei Laptops funktioniert Make Code in Chrome nicht wie vollständig, unklar warum.
-* Arbeit in einem Textdokumen weiterhin schwierig.
+* Arbeit in einem Textdokument weiterhin schwierig.

@@ -1,29 +1,28 @@
 # Tutorial
 
-Der Micro Bit ist ein vielseitig programmierbarer Einplatinencomputer.
+Der Microbit ist ein vielseitig programmierbarer Einplatinencomputer.
 
 <img src="./iidwfm-presentationen-24.jpg" alt="">
 
-
 Wichtige Links:
-- [BBC micro:bit Webseite](https://microbit.org/)
+
+- [BBC Microbit Webseite](https://microbit.org/)
   - [Let's code](https://microbit.org/code/) für Links zu Editoren und dem Classroom
-- [Microsoft Make Code für micro:bit](https://makecode.microbit.org/)
+- [Microsoft Make Code für Microbit](https://makecode.microbit.org/)
 
 ## Hardware
 
 Bevor wir mit dem Programmieren loslegen, wollen wir uns die
-Hardware genauer anschauen und versuchen, den Micro Bit zu
+Hardware genauer anschauen und versuchen, den Microbit zu
 beschreiben.
 
-Für die nun folgenden Übungen, könnt ihr ein Poster gestalten, die Antworten
+Für die nun folgenden Übungen könnt ihr ein Poster gestalten, die Antworten
 auf einem Blatt Papier sammeln oder in einem Google Doc eintragen.
 
-
-```{exercise} Micro Bit Kennzahlen
+```{exercise} Microbit Kennzahlen
 :label: exercise-micro-bit-numbers
 
-Der Micro Bit ist ein Computer.
+Der Microbit ist ein Computer.
 Wir wissen also, dass es einen Prozessor und irgendeine Form von Speicher geben muss.
 
 Recherchiere und versuche folgende Fragen zu beantworten:
@@ -34,11 +33,10 @@ Recherchiere und versuche folgende Fragen zu beantworten:
 Wofür sind diese drei Größen wichtig?
 ```
 
-
-```{exercise} Micro Bit Schnittstellen, Sensoren, ...
+```{exercise} Microbit Schnittstellen, Sensoren, ...
 :label: exercise-micro-bit-interface-and-sensors
 
-Der Micro Bit ist mit diversen Schnittstellen, Sensoren und weiteren Fähigkeiten
+Der Microbit ist mit diversen Schnittstellen, Sensoren und weiteren Fähigkeiten
 ausgestattet.
 
 Schaue dir das Gerät genau an und versuche ihn zu beschreiben.
@@ -49,31 +47,31 @@ Beantworte dabei auch die folgenden Fragen:
 * Welche Möglichkeiten gibt es um mit dem Gerät zu interagieren?
 ```
 
-<img src="./i04_poster_microbit.jpg" alt="">
+<!--<img src="./i04_poster_microbit.jpg" alt="">-->
 
 ## Software
 
 Wenn der Microbit tun soll, was wir wollen, müssen wir ein Programm
 schreiben, das genaue Anweisungen gibt.
 Überblicksmäßig muss folgende passieren:
+
 1. Programmieren: Wir erstellen ein Programm
 1. Kompilieren: Das Programm wird in eine Form gebracht die der Prozessor versteht
 1. Kopieren: Wir übertragen das kompilierte Programm auf den Microbit
 1. Ausführen: Der Microbit führt das Programm aus
 
-
 ## Erste kleine Programme 🐣
 
-Es gibt verschiedene Möglichkeiten Programme für den Micro Bit zu schreiben
+Es gibt verschiedene Möglichkeiten Programme für den Microbit zu schreiben
 und wir werden diese auch noch kennen lernen.
 
-Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des [Micro Bit Classrooms](https://microbit.org/join)).
-Danach kann jede für sich eigene Projekte mit [Microsoft Make Code Micro Bit](https://makecode.microbit.org/) anlegen.
+Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des [Microbit Classrooms](https://microbit.org/join)).
+Danach kann jede für sich eigene Projekte mit [Microsoft Make Code Microbit](https://makecode.microbit.org/) anlegen.
 
 ```{exercise} Flashing Heart 💗
 :label: exercise-micro-bit-flashing-heart
 
-Wir wollen den Micro Bit so programmieren, dass die LED-Matrix ein
+Wir wollen den Microbit so programmieren, dass die LED-Matrix ein
 blinkendes Herz anzeigt.
 
 <img src="https://pxt.azureedge.net/blob/bd3236c80ed86cbf0b99ff39f26469683c512ebc/static/mb/projects/a1-display.png" alt="Flashing Heart Tutorial" width="200px" align="center">
@@ -82,12 +80,12 @@ blinkendes Herz anzeigt.
 ```{exercise} Name Tag (Namenskärtchen) 📛
 :label: exercise-micro-bit-name-tag
 
-Wir wollen den Micro Bit so programmieren, dass er unseren Vornamen anzeigt.
+Wir wollen den Microbit so programmieren, dass er unseren Vornamen anzeigt.
 
 <img src="https://pxt.azureedge.net/blob/e03f64a983c3650f5487009bd9952b1248954e45/static/mb/projects/name-tag.png" alt="Name Tage Tutorial" width="200px" align="center">
 ```
 
-Wir können das kompilierte Programm (HEX-Datei) händisch herunterladen und auf den Micro Bit
+Wir können das kompilierte Programm (HEX-Datei) händisch herunterladen und auf den Microbit
 kopieren. Das geht auch etwas einfacher.
 
 ```{exercise} Chrome & WebUSB Unterstützung
@@ -111,13 +109,12 @@ Wir haben den passenden Block gewählt und waren fast schon fertig.
 Wir werden uns nun ansehen, wie man etwas größere Programme aus
 kleinen Einzelteilen zusammen setzen kann.
 
-
 ### Zahlen würfeln? 🎲
 
 ```{exercise} Dice (Würfel)
 :label: exercise-micro-bit-dice
 
-Wir wollen den Micro Bit so programmieren, dass man ihn verwenden kann wie einen Würfel:
+Wir wollen den Microbit so programmieren, dass man ihn verwenden kann wie einen Würfel:
 Wenn man ihn schüttelt, soll er eine zufällige Zahl anzeigen.
 
 <img src="https://pxt.azureedge.net/blob/cb81642a25f424bc62d30f74f6072e07b6db85d9/static/mb/projects/dice.png" alt="Dice Tutorial" width="200px" align="center">
@@ -138,7 +135,7 @@ Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?
 ```{exercise} Emoji-Dice (Emoji-Würfel)
 :label: exercise-micro-bit-emoji-dice
 
-Wenn man den Micro Bit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.
+Wenn man den Microbit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.
 
 Fragen:
 * Was ist anders im Vergleich zum Würfel?
@@ -166,12 +163,12 @@ Die Stimmung soll man über die Buttons auswählen können.
 
 Das gewünschte Verhalten siehst du hier:
 
-![Emoji Retrospektive mit dem Micro Bit](emoji_retro.gif)
+![Emoji Retrospektive mit dem Microbit](emoji_retro.gif)
 
 Aufgaben und zu beantwortende Fragen:
+
 1. Beschreibe das Verhalten in Worten
-1. Gibt es eine vereinfachte Aufgabe, die
-   leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?
+1. Gibt es eine vereinfachte Aufgabe, die leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?
 1. Welche Blöcke wirst du brauchen?
 1. Wie hängen die Blöcke zusammen?
 
@@ -182,7 +179,6 @@ zu beantworten und erst dann den Code zu erstellen.
 Bei Fragen oder Unklarheiten einfach melden.
 ```
 
-
 ### Mehr Sensoren 🤹
 
 Bis jetzt haben wir nur einen kleinen Ausschnitt der Funktionen
@@ -192,7 +188,7 @@ Das wollen wir nun ändern.
 ```{exercise} Microbit Sensoren entdecken (60 Minuten)
 :label: exercise-microbit-sensor-discovery
 
-Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
+Entscheide dich für einen der Sensoren, den wir noch nicht verwendet haben.
 
 **Fragen**
 - Wofür könnte man diesen Sensor verwenden?
@@ -223,12 +219,11 @@ untereinander Informationen austauschen können.
 Nachdem das ein wenig verwirrend sein kann, wollen wir uns das
 in Ruhe ansehen.
 
-
 ```{exercise} Radio
 :label: exercise-basic-radio
 
-Wir wollen zwei Micro Bits miteinander verbinden.
-Wenn man auf einem Micro Bit einen Button drückt, soll das auf dem
+Wir wollen zwei Microbits miteinander verbinden.
+Wenn man auf einem Microbit einen Button drückt, soll das auf dem
 anderen angezeigt werden.
 
 Aufgaben und Fragen:
@@ -236,7 +231,7 @@ Aufgaben und Fragen:
 1. Welche Blöcke brauchen wir noch?
 
 Hinweis:
-* Damit klar ist, welche Micro Bits miteinander kommunizieren (und welche nicht),
+* Damit klar ist, welche Microbits miteinander kommunizieren (und welche nicht),
 wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe ausgetauscht.
 * Im Simulator gibt es zwei Microbits aber nur ein Programm.
   Versuche in der Ich-Perspektive zu bleiben.
@@ -252,25 +247,26 @@ wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe au
 % * ![Datenaustausch](Datenaustausch.png)
 % * ![Teste Datenaustausch](TesteDatenaustausch.png)
 
-
 ## Eine große Aufgabe 🧗
 
 Wir werden uns nun länger mit ein und derselben Aufgabe befassen.
 Konkret wollen wir das Spiel "Schere, Stein, Papier" mit dem Microbit
 umsetzen.
 Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stellen:
-* Was kann ich tun, wenn ich nicht mehr weiter weiß?
-* Wie gehe ich damit um, wenn das Lösen einer Aufgabe länger dauert?
-* Welche Problemlösungsstrategien gibt es?
 
+- Was kann ich tun, wenn ich nicht mehr weiter weiß?
+- Wie gehe ich damit um, wenn das Lösen einer Aufgabe länger dauert?
+- Welche Problemlösungsstrategien gibt es?
 
 ### Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓
 
 Kennst du das Spiel Schere, Stein, Papier?
 
 Es gibt einen Wikipedia dazu:
+
 - [Deutsch](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier)
 - [Arabisch](https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5)
+- [Farsi](https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%82%DB%8C%DA%86%DB%8C)
 
 
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
@@ -422,13 +418,13 @@ Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
 
 
 
-### E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
+### E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
 
-Der Micro Bit hat diverse Schnittstellen.
+Der Microbit hat diverse Schnittstellen.
 Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.
 
 Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
-Micro Bit steuern.
+Microbit steuern.
 
 Hast du Ideen, was man damit alles machen könnte?
 
@@ -437,7 +433,7 @@ Hast du Ideen, was man damit alles machen könnte?
 
 *In dieser Übung wird noch nicht programmiert, das kommt später.*
 
-Ihr habt einen Micro Bit, diverse LEDs und einen elektrisch leitenden Faden.
+Ihr habt einen Microbit, diverse LEDs und einen elektrisch leitenden Faden.
 Damit könnt ihr beispielsweise einen Schuh oder eine Tasche zum Leuchten
 bringen.
 
@@ -447,7 +443,7 @@ Diskutiert gemeinsam und arbeitet einen Vorschlag aus:
 
 Beschreibt eure Idee im Detail:
 * Wie sieht sie aus?
-* Welche Aufgaben übernimmt der Micro Bit?
+* Welche Aufgaben übernimmt der Microbit?
 * Wie könnte das Programm aussehen?
 
 Präsentiert eure Idee der Gruppe.

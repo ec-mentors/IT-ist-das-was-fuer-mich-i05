@@ -8,7 +8,7 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tage 12 - 14
+## Tage 10 - 13
 
 Wir schlagen ein neues Kapitel auf
 
