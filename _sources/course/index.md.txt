@@ -7,5 +7,5 @@ Beschreibung was wir an diesem Tag vor haben.
 :maxdepth: 1
 :glob:
 
-day_0*/index
+day_*/index
 ```

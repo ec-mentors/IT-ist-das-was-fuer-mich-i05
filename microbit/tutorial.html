@@ -46,6 +46,8 @@
     <link rel="shortcut icon" href="../_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
     <link rel="search" title="Suche" href="../search.html" />
+    <link rel="next" title="Erweiterungen für den Micro Bit" href="extensions.html" />
+    <link rel="prev" title="BBC micro:bit" href="index.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="de">
     
@@ -102,7 +104,7 @@
   Arbeitsmaterialien für den Kurs
  </span>
 </p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="../course/index.html">
    Kursmaterialien
@@ -134,8 +136,13 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../course/day_05_to_08_lego_robots/index.html">
-     Tag 5 bis 8: Lego Roboter EV3
+    <a class="reference internal" href="../course/day_05_to_09_lego_robots/index.html">
+     Tag 5 bis 9: Lego Roboter EV3
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../course/day_10_to_13_microbit_intro/index.html">
+     Tag 10 bis 13: Raspberry PI und BBC micro:bit Intro
     </a>
    </li>
   </ul>
@@ -166,6 +173,33 @@
   <a class="reference internal" href="../lego/index.html">
    Lego Mindstorms
   </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../raspberrypi.html">
+   Raspberry PI
+  </a>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="index.html">
+   BBC micro:bit
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Tutorial
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="extensions.html">
+     Erweiterungen für den Micro Bit
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../website.html">
@@ -395,8 +429,8 @@ title="Print to PDF"
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#e-textile-mit-dem-micro-bit">
-     E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
+    <a class="reference internal nav-link" href="#e-textile-mit-dem-microbit">
+     E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
     </a>
    </li>
   </ul>
@@ -478,8 +512,8 @@ title="Print to PDF"
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#e-textile-mit-dem-micro-bit">
-     E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
+    <a class="reference internal nav-link" href="#e-textile-mit-dem-microbit">
+     E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
     </a>
    </li>
   </ul>
@@ -496,29 +530,29 @@ title="Print to PDF"
                 
   <section id="tutorial">
 <h1>Tutorial<a class="headerlink" href="#tutorial" title="Link zu dieser Überschrift">#</a></h1>
-<p>Der Micro Bit ist ein vielseitig programmierbarer Einplatinencomputer.</p>
+<p>Der Microbit ist ein vielseitig programmierbarer Einplatinencomputer.</p>
 <img alt="" src="../_images/iidwfm-presentationen-24.jpg" />
 <p>Wichtige Links:</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://microbit.org/">BBC micro:bit Webseite</a></p>
+<li><p><a class="reference external" href="https://microbit.org/">BBC Microbit Webseite</a></p>
 <ul>
 <li><p><a class="reference external" href="https://microbit.org/code/">Let’s code</a> für Links zu Editoren und dem Classroom</p></li>
 </ul>
 </li>
-<li><p><a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code für micro:bit</a></p></li>
+<li><p><a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code für Microbit</a></p></li>
 </ul>
 <section id="hardware">
 <h2>Hardware<a class="headerlink" href="#hardware" title="Link zu dieser Überschrift">#</a></h2>
 <p>Bevor wir mit dem Programmieren loslegen, wollen wir uns die
-Hardware genauer anschauen und versuchen, den Micro Bit zu
+Hardware genauer anschauen und versuchen, den Microbit zu
 beschreiben.</p>
-<p>Für die nun folgenden Übungen, könnt ihr ein Poster gestalten, die Antworten
+<p>Für die nun folgenden Übungen könnt ihr ein Poster gestalten, die Antworten
 auf einem Blatt Papier sammeln oder in einem Google Doc eintragen.</p>
 <div class="exercise admonition" id="exercise-micro-bit-numbers">
 
-<p class="admonition-title"> (Micro Bit Kennzahlen)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 2 </span> (Microbit Kennzahlen)</p>
 <section id="exercise-content">
-<p>Der Micro Bit ist ein Computer.
+<p>Der Microbit ist ein Computer.
 Wir wissen also, dass es einen Prozessor und irgendeine Form von Speicher geben muss.</p>
 <p>Recherchiere und versuche folgende Fragen zu beantworten:</p>
 <ul class="simple">
@@ -531,9 +565,9 @@ Wir wissen also, dass es einen Prozessor und irgendeine Form von Speicher geben 
 </div>
 <div class="exercise admonition" id="exercise-micro-bit-interface-and-sensors">
 
-<p class="admonition-title"> (Micro Bit Schnittstellen, Sensoren, …)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 3 </span> (Microbit Schnittstellen, Sensoren, …)</p>
 <section id="exercise-content">
-<p>Der Micro Bit ist mit diversen Schnittstellen, Sensoren und weiteren Fähigkeiten
+<p>Der Microbit ist mit diversen Schnittstellen, Sensoren und weiteren Fähigkeiten
 ausgestattet.</p>
 <p>Schaue dir das Gerät genau an und versuche ihn zu beschreiben.</p>
 <p>Beantworte dabei auch die folgenden Fragen:</p>
@@ -544,7 +578,7 @@ ausgestattet.</p>
 </ul>
 </section>
 </div>
-<img alt="" src="../_images/i04_poster_microbit.jpg" />
+<!--<img src="./i04_poster_microbit.jpg" alt="">-->
 </section>
 <section id="software">
 <h2>Software<a class="headerlink" href="#software" title="Link zu dieser Überschrift">#</a></h2>
@@ -560,32 +594,32 @@ schreiben, das genaue Anweisungen gibt.
 </section>
 <section id="erste-kleine-programme">
 <h2>Erste kleine Programme 🐣<a class="headerlink" href="#erste-kleine-programme" title="Link zu dieser Überschrift">#</a></h2>
-<p>Es gibt verschiedene Möglichkeiten Programme für den Micro Bit zu schreiben
+<p>Es gibt verschiedene Möglichkeiten Programme für den Microbit zu schreiben
 und wir werden diese auch noch kennen lernen.</p>
-<p>Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des <a class="reference external" href="https://microbit.org/join">Micro Bit Classrooms</a>).
-Danach kann jede für sich eigene Projekte mit <a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code Micro Bit</a> anlegen.</p>
+<p>Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des <a class="reference external" href="https://microbit.org/join">Microbit Classrooms</a>).
+Danach kann jede für sich eigene Projekte mit <a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code Microbit</a> anlegen.</p>
 <div class="exercise admonition" id="exercise-micro-bit-flashing-heart">
 
-<p class="admonition-title"> (Flashing Heart 💗)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 4 </span> (Flashing Heart 💗)</p>
 <section id="exercise-content">
-<p>Wir wollen den Micro Bit so programmieren, dass die LED-Matrix ein
+<p>Wir wollen den Microbit so programmieren, dass die LED-Matrix ein
 blinkendes Herz anzeigt.</p>
 <a class="reference internal image-reference" href="https://pxt.azureedge.net/blob/bd3236c80ed86cbf0b99ff39f26469683c512ebc/static/mb/projects/a1-display.png"><img alt="Flashing Heart Tutorial" class="align-center" src="https://pxt.azureedge.net/blob/bd3236c80ed86cbf0b99ff39f26469683c512ebc/static/mb/projects/a1-display.png" style="width: 200px;" /></a>
 </section>
 </div>
 <div class="exercise admonition" id="exercise-micro-bit-name-tag">
 
-<p class="admonition-title"> (Name Tag (Namenskärtchen) 📛)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 5 </span> (Name Tag (Namenskärtchen) 📛)</p>
 <section id="exercise-content">
-<p>Wir wollen den Micro Bit so programmieren, dass er unseren Vornamen anzeigt.</p>
+<p>Wir wollen den Microbit so programmieren, dass er unseren Vornamen anzeigt.</p>
 <a class="reference internal image-reference" href="https://pxt.azureedge.net/blob/e03f64a983c3650f5487009bd9952b1248954e45/static/mb/projects/name-tag.png"><img alt="Name Tage Tutorial" class="align-center" src="https://pxt.azureedge.net/blob/e03f64a983c3650f5487009bd9952b1248954e45/static/mb/projects/name-tag.png" style="width: 200px;" /></a>
 </section>
 </div>
-<p>Wir können das kompilierte Programm (HEX-Datei) händisch herunterladen und auf den Micro Bit
+<p>Wir können das kompilierte Programm (HEX-Datei) händisch herunterladen und auf den Microbit
 kopieren. Das geht auch etwas einfacher.</p>
 <div class="exercise admonition" id="exercise-micro-bit-chrome-webusb">
 
-<p class="admonition-title"> (Chrome &amp; WebUSB Unterstützung)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 6 </span> (Chrome &amp; WebUSB Unterstützung)</p>
 <section id="exercise-content">
 <p>Schritte:</p>
 <ol class="arabic simple">
@@ -610,9 +644,9 @@ kleinen Einzelteilen zusammen setzen kann.</p>
 <h3>Zahlen würfeln? 🎲<a class="headerlink" href="#zahlen-wurfeln" title="Link zu dieser Überschrift">#</a></h3>
 <div class="exercise admonition" id="exercise-micro-bit-dice">
 
-<p class="admonition-title"> (Dice (Würfel))</p>
+<p class="admonition-title"><span class="caption-number">Exercise 7 </span> (Dice (Würfel))</p>
 <section id="exercise-content">
-<p>Wir wollen den Micro Bit so programmieren, dass man ihn verwenden kann wie einen Würfel:
+<p>Wir wollen den Microbit so programmieren, dass man ihn verwenden kann wie einen Würfel:
 Wenn man ihn schüttelt, soll er eine zufällige Zahl anzeigen.</p>
 <a class="reference internal image-reference" href="https://pxt.azureedge.net/blob/cb81642a25f424bc62d30f74f6072e07b6db85d9/static/mb/projects/dice.png"><img alt="Dice Tutorial" class="align-center" src="https://pxt.azureedge.net/blob/cb81642a25f424bc62d30f74f6072e07b6db85d9/static/mb/projects/dice.png" style="width: 200px;" /></a>
 <p>Fragen:</p>
@@ -631,9 +665,9 @@ An stelle von Zahlen, könnte man ja auch zufällige Emojis anzeigen, oder?</p>
 Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?</p>
 <div class="exercise admonition" id="exercise-micro-bit-emoji-dice">
 
-<p class="admonition-title"> (Emoji-Dice (Emoji-Würfel))</p>
+<p class="admonition-title"><span class="caption-number">Exercise 8 </span> (Emoji-Dice (Emoji-Würfel))</p>
 <section id="exercise-content">
-<p>Wenn man den Micro Bit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.</p>
+<p>Wenn man den Microbit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.</p>
 <p>Fragen:</p>
 <ul class="simple">
 <li><p>Was ist anders im Vergleich zum Würfel?</p></li>
@@ -655,16 +689,15 @@ einen 😃 anzeigen und wenn wir nicht so
 überzeugt sind bspw. einen 😐 darstellen.</p>
 <div class="exercise admonition" id="exercise-micro-bit-retrospective">
 
-<p class="admonition-title"> (Emoji-Stimmung)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 9 </span> (Emoji-Stimmung)</p>
 <section id="exercise-content">
 <p>Die Stimmung soll man über die Buttons auswählen können.</p>
 <p>Das gewünschte Verhalten siehst du hier:</p>
-<p><img alt="Emoji Retrospektive mit dem Micro Bit" src="../_images/emoji_retro.gif" /></p>
+<p><img alt="Emoji Retrospektive mit dem Microbit" src="../_images/emoji_retro.gif" /></p>
 <p>Aufgaben und zu beantwortende Fragen:</p>
 <ol class="arabic simple">
 <li><p>Beschreibe das Verhalten in Worten</p></li>
-<li><p>Gibt es eine vereinfachte Aufgabe, die
-leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?</p></li>
+<li><p>Gibt es eine vereinfachte Aufgabe, die leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?</p></li>
 <li><p>Welche Blöcke wirst du brauchen?</p></li>
 <li><p>Wie hängen die Blöcke zusammen?</p></li>
 </ol>
@@ -682,9 +715,9 @@ des Microbits verwendet.
 Das wollen wir nun ändern.</p>
 <div class="exercise admonition" id="exercise-microbit-sensor-discovery">
 
-<p class="admonition-title"> (Microbit Sensoren entdecken (60 Minuten))</p>
+<p class="admonition-title"><span class="caption-number">Exercise 10 </span> (Microbit Sensoren entdecken (60 Minuten))</p>
 <section id="exercise-content">
-<p>Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.</p>
+<p>Entscheide dich für einen der Sensoren, den wir noch nicht verwendet haben.</p>
 <p><strong>Fragen</strong></p>
 <ul class="simple">
 <li><p>Wofür könnte man diesen Sensor verwenden?</p></li>
@@ -720,10 +753,10 @@ untereinander Informationen austauschen können.</p>
 in Ruhe ansehen.</p>
 <div class="exercise admonition" id="exercise-basic-radio">
 
-<p class="admonition-title"> (Radio)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 11 </span> (Radio)</p>
 <section id="exercise-content">
-<p>Wir wollen zwei Micro Bits miteinander verbinden.
-Wenn man auf einem Micro Bit einen Button drückt, soll das auf dem
+<p>Wir wollen zwei Microbits miteinander verbinden.
+Wenn man auf einem Microbit einen Button drückt, soll das auf dem
 anderen angezeigt werden.</p>
 <p>Aufgaben und Fragen:</p>
 <ol class="arabic simple">
@@ -732,7 +765,7 @@ anderen angezeigt werden.</p>
 </ol>
 <p>Hinweis:</p>
 <ul class="simple">
-<li><p>Damit klar ist, welche Micro Bits miteinander kommunizieren (und welche nicht),
+<li><p>Damit klar ist, welche Microbits miteinander kommunizieren (und welche nicht),
 wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe ausgetauscht.</p></li>
 <li><p>Im Simulator gibt es zwei Microbits aber nur ein Programm.
 Versuche in der Ich-Perspektive zu bleiben.</p></li>
@@ -759,6 +792,7 @@ Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stel
 <ul class="simple">
 <li><p><a class="reference external" href="https://de.wikipedia.org/wiki/Schere,_Stein,_Papier">Deutsch</a></p></li>
 <li><p><a class="reference external" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5">Arabisch</a></p></li>
+<li><p><a class="reference external" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%82%DB%8C%DA%86%DB%8C">Farsi</a></p></li>
 </ul>
 <p>Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
 mit dem Microbit umsetzen.
@@ -772,7 +806,7 @@ Das heißt:</p>
 <p>Wie können wir diese Aufgabe angehen?</p>
 <div class="exercise admonition" id="exercise-rock-paper-scissor-part-1-reading">
 
-<p class="admonition-title"> (Spiel kennen lernen)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 12 </span> (Spiel kennen lernen)</p>
 <section id="exercise-content">
 <p>Zu Beginn wollen wir noch gar kein Programm schreiben
 sondern uns mit dem Spiel selbst vertraut machen.</p>
@@ -803,7 +837,7 @@ auf Wikipedia.</p></li>
 </div>
 <div class="exercise admonition" id="exercise-rock-paper-scissor-1-description">
 
-<p class="admonition-title"> (Aufgabe analysieren)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 13 </span> (Aufgabe analysieren)</p>
 <section id="exercise-content">
 <p>In aller Kürze könnte man das Spiel so beschreiben:</p>
 <ol class="arabic simple">
@@ -830,7 +864,7 @@ einmal mit jemandem und beschreibt gleichzeitig was ihr tut.</p>
 </div>
 <div class="exercise admonition" id="exercise-rock-paper-scissors-1-diagram">
 
-<p class="admonition-title"> (Aufgabe zeichnen)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 14 </span> (Aufgabe zeichnen)</p>
 <section id="exercise-content">
 <p>Oft sagt ein Bild mehr als tausend Worte.
 Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
@@ -854,7 +888,7 @@ Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
 Das ist okay.</p>
 <div class="exercise admonition" id="exercise-rock-paper-scissor-2-implementation">
 
-<p class="admonition-title"> (Teilaufgaben umsetzen)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 15 </span> (Teilaufgaben umsetzen)</p>
 <section id="exercise-content">
 <p>Wir wollen versuchen Schere-Stein-Papier zu programmieren.</p>
 <p>Wir halten uns weiterhin an unser Motto</p>
@@ -876,7 +910,7 @@ das vorstellst.</p></li>
 </div>
 <div class="exercise admonition" id="exercise-rock-paper-scissor-2-rules">
 
-<p class="admonition-title"> (Regeln anwenden)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 16 </span> (Regeln anwenden)</p>
 <section id="exercise-content">
 <p>Wer gewinnt und wer verliert wird durch Regeln beschrieben.</p>
 <p>Wenn wir diesen Teil des Programms umsetzen wollen, müssen
@@ -894,7 +928,7 @@ Spielerin?</p></li>
 </div>
 <div class="exercise admonition" id="exercise-rock-paper-scissors-all-in-one">
 
-<p class="admonition-title"> (Schere-Stein-Papier)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 17 </span> (Schere-Stein-Papier)</p>
 <section id="exercise-content">
 <p>Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
 Teile zu einem Ganzen zusammen zu fügen.</p>
@@ -907,19 +941,19 @@ Teile zu einem Ganzen zusammen zu fügen.</p>
 </section>
 </div>
 </section>
-<section id="e-textile-mit-dem-micro-bit">
-<h3>E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓<a class="headerlink" href="#e-textile-mit-dem-micro-bit" title="Link zu dieser Überschrift">#</a></h3>
-<p>Der Micro Bit hat diverse Schnittstellen.
+<section id="e-textile-mit-dem-microbit">
+<h3>E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓<a class="headerlink" href="#e-textile-mit-dem-microbit" title="Link zu dieser Überschrift">#</a></h3>
+<p>Der Microbit hat diverse Schnittstellen.
 Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.</p>
 <p>Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
-Micro Bit steuern.</p>
+Microbit steuern.</p>
 <p>Hast du Ideen, was man damit alles machen könnte?</p>
 <div class="exercise admonition" id="exercise-micro-bit-e-textile-1">
 
-<p class="admonition-title"> (E-Textile Ideensammlung und Konzepte)</p>
+<p class="admonition-title"><span class="caption-number">Exercise 18 </span> (E-Textile Ideensammlung und Konzepte)</p>
 <section id="exercise-content">
 <p><em>In dieser Übung wird noch nicht programmiert, das kommt später.</em></p>
-<p>Ihr habt einen Micro Bit, diverse LEDs und einen elektrisch leitenden Faden.
+<p>Ihr habt einen Microbit, diverse LEDs und einen elektrisch leitenden Faden.
 Damit könnt ihr beispielsweise einen Schuh oder eine Tasche zum Leuchten
 bringen.</p>
 <p>Diskutiert gemeinsam und arbeitet einen Vorschlag aus:</p>
@@ -930,7 +964,7 @@ bringen.</p>
 <p>Beschreibt eure Idee im Detail:</p>
 <ul class="simple">
 <li><p>Wie sieht sie aus?</p></li>
-<li><p>Welche Aufgaben übernimmt der Micro Bit?</p></li>
+<li><p>Welche Aufgaben übernimmt der Microbit?</p></li>
 <li><p>Wie könnte das Programm aussehen?</p></li>
 </ul>
 <p>Präsentiert eure Idee der Gruppe.</p>
@@ -948,6 +982,20 @@ bringen.</p>
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="index.html" title="zurück Seite">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">zurück</p>
+            <p class="prev-next-title">BBC micro:bit</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="extensions.html" title="weiter Seite">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">weiter</p>
+        <p class="prev-next-title">Erweiterungen für den Micro Bit</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
             </footer>
         </div>
