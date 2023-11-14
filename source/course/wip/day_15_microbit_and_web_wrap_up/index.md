@@ -13,6 +13,7 @@ zu zerlegen.
 {download}`🎬 Slides <./slides.pdf>`
 
 Wir machen heute folgende Übung(en):
+
 - {ref}`exercise-questions-for-dagmar`
 - {ref}`exercise-rock-paper-scissors-1-diagram`
 - {ref}`exercise-rock-paper-scissor-2-implementation`
