@@ -39,9 +39,10 @@ Wofür sind diese drei Größen wichtig?
 Der Microbit ist mit diversen Schnittstellen, Sensoren und weiteren Fähigkeiten
 ausgestattet.
 
-Schaue dir das Gerät genau an und versuche ihn zu beschreiben.
+Schaue dir das Gerät genau an und versuche es zu beschreiben.
 
 Beantworte dabei auch die folgenden Fragen:
+
 * Welche Schnittstellen gibt es?
 * Was für Sensoren gibt es und was kann man mit ihnen messen?
 * Welche Möglichkeiten gibt es um mit dem Gerät zu interagieren?
@@ -239,13 +240,12 @@ wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe au
 
 % ```{solution} exercise-basic-radio
 % :class: dropdown
-%
 % ![Share button events in group](share_button_events_in_group.png)
-% ```
-%
+%```
 % Datenaustausch zwischen zwei Microbits:
-% * ![Datenaustausch](Datenaustausch.png)
-% * ![Teste Datenaustausch](TesteDatenaustausch.png)
+% ![Datenaustausch](Datenaustausch.png)
+% Datenaustausch testen:
+% ![Teste Datenaustausch](TesteDatenaustausch.png)
 
 ## Eine große Aufgabe 🧗
 
@@ -262,16 +262,16 @@ Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stel
 
 Kennst du das Spiel Schere, Stein, Papier?
 
-Es gibt einen Wikipedia dazu:
+Es gibt einen Wikipedia-Artikel dazu:
 
 - [Deutsch](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier)
 - [Arabisch](https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5)
 - [Farsi](https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%82%DB%8C%DA%86%DB%8C)
 
-
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
 mit dem Microbit umsetzen.
 Das heißt:
+
 - Wir verbinden zwei Microbits
 - Wir schütteln drei Mal
 - Jeder Microbit zeigt ein zufälliges Symbol an
@@ -279,20 +279,19 @@ Das heißt:
 
 Wie können wir diese Aufgabe angehen?
 
-
 ```{exercise} Spiel kennen lernen
 :label: exercise-rock-paper-scissor-part-1-reading
 
 Zu Beginn wollen wir noch gar kein Programm schreiben
 sondern uns mit dem Spiel selbst vertraut machen.
 
-Falls du das Spiel nicht kennst, lies dir die den Artikel
+Falls du das Spiel nicht kennst, lies dir den Artikel
 auf Wikipedia durch.
 
 Aufgaben:
 1. Suche dir eine Partnerin.
 1. Spielt das Spiel ein paar Mal.
-   * Wisst ihr, man es spielt?
+   * Wisst ihr, wie man es spielt?
    * Gibt es eine Strategie, mit der man öfter gewinnen kann?
    * Versucht zu beschreiben was ihr tut, während ihr das Spiel
      spielt (auch wenn sich das komisch anfühlt).
@@ -306,145 +305,141 @@ Fragen:
 - Hast du auch versucht Skizzen zu machen?
 ```
 
+% ```{exercise} Aufgabe analysieren
+% :label: exercise-rock-paper-scissor-1-description
 
-```{exercise} Aufgabe analysieren
-:label: exercise-rock-paper-scissor-1-description
+% In aller Kürze könnte man das Spiel so beschreiben:
 
-In aller Kürze könnte man das Spiel so beschreiben:
-1. Wir verbinden zwei Microbits
-1. Wir schütteln drei Mal
-1. Jeder Microbit zeigt ein zufälliges Symbol an
-1. Der eine gewinnt, der andere verliert
+% 1. Wir verbinden zwei Microbits
+% 1. Wir schütteln drei Mal
+% 1. Jeder Microbit zeigt ein zufälliges Symbol an
+% 1. Der eine gewinnt, der andere verliert
 
-Das Programm, das wir später erstellen wollen, muss
-alle diese Dinge tun.
+% Das Programm, das wir später erstellen wollen, muss
+% alle diese Dinge tun.
 
-Wie können wir so ein Programm umsetzen?
+% Wie können wir so ein Programm umsetzen?
 
-Wir haben verschiedene Strategien besprochen um Probleme
-zu lösen:
-- Kannst du das Problem vereinfachen? Wie?
-- Kannst du das Problem in Teilprobleme zerlegen? Welche?
-- Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
-- Kannst du jemandem die Aufgabe im Detail beschreiben?
-  Suche dir eine Partnerin und probiere es.
+% Wir haben verschiedene Strategien besprochen um Probleme
+% zu lösen:
+% - Kannst du das Problem vereinfachen? Wie?
+% - Kannst du das Problem in Teilprobleme zerlegen? Welche?
+% - Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
+% - Kannst du jemandem die Aufgabe im Detail beschreiben?
+% Suche dir eine Partnerin und probiere es.
 
-Wenn du dir nicht sicher bist, Spiele das Spiel noch
-einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
-```
+% Wenn du dir nicht sicher bist, Spiele das Spiel noch
+% einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
+%```
 
+% ```{exercise} Aufgabe zeichnen
+% :label: exercise-rock-paper-scissors-1-diagram
 
-```{exercise} Aufgabe zeichnen
-:label: exercise-rock-paper-scissors-1-diagram
+% Oft sagt ein Bild mehr als tausend Worte.
+% Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
+% in ein Bild zu fassen.
+% Unser Ziel ist dabei, den Spielablauf zu beschreiben und einzelne
+% Teile der Aufgabe zu erkennen.
 
-Oft sagt ein Bild mehr als tausend Worte.
-Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
-in ein Bild zu fassen.
-Unser Ziel ist dabei, den Spielablauf zu beschreiben und einzelne
-Teile der Aufgabe zu erkennen.
+% Erstelle eine Zeichnung aus der man ablesen kann:
 
-Erstelle eine Zeichnung aus der man ablesen kann:
-- Wann passiert etwas? Zeitlicher Ablauf.
-- Warum passiert etwas? Logischer Ablauf.
-- Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
-  Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?s", ...)
+% - Wann passiert etwas? Zeitlicher Ablauf.
+% - Warum passiert etwas? Logischer Ablauf.
+% - Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
+% Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?
 
-Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
-andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
-```
+% Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
+% andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
+%```
 
-Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
-können wir probieren sie Schritt für Schritt zu lösen.
-Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
-Das ist okay.
+% Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
+% können wir probieren sie Schritt für Schritt zu lösen.
+% Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
+% Das ist okay.
 
+% ```{exercise} Teilaufgaben umsetzen
+% :label: exercise-rock-paper-scissor-2-implementation
 
-```{exercise} Teilaufgaben umsetzen
-:label: exercise-rock-paper-scissor-2-implementation
+% Wir wollen versuchen Schere-Stein-Papier zu programmieren.
 
-Wir wollen versuchen Schere-Stein-Papier zu programmieren.
+% Wir halten uns weiterhin an unser Motto
 
-Wir halten uns weiterhin an unser Motto
+% > Kleine Schritte, Stück für Stück
 
-> Kleine Schritte, Stück für Stück
+% Versuche ganz bewusst zuerst einmal nur kleinere Teilaufgaben
+% zu lösen. Wenn das klappt, füge sie zu einem Ganzen zusammen.
 
-Versuche ganz bewusst zuerst einmal nur kleinere Teilaufgaben
-zu lösen. Wenn das klappt, füge sie zu einem Ganzen zusammen.
+% **Aufgaben:**
+% Für jedes Teilproblem oder jede Vereinfachung:
+% 1. Worin besteht die Aufgabe?
+% 1. Welche Blöcke brauchst du?
+% 1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
+%    bei jeder Änderung, ob alles so funktioniert, wie du dir
+%    das vorstellst.
+%```
 
+% ```{exercise} Regeln anwenden
+% :label: exercise-rock-paper-scissor-2-rules
 
-**Aufgaben:**
-Für jedes Teilproblem oder jede Vereinfachung:
-1. Worin besteht die Aufgabe?
-1. Welche Blöcke brauchst du?
-1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
-   bei jeder Änderung, ob alles so funktioniert, wie du dir
-   das vorstellst.
-```
+% Wer gewinnt und wer verliert wird durch Regeln beschrieben.
 
+% Wenn wir diesen Teil des Programms umsetzen wollen, müssen
+% wir uns für eine Sichtweise entscheiden.
 
-```{exercise} Regeln anwenden
-:label: exercise-rock-paper-scissor-2-rules
+% Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
 
-Wer gewinnt und wer verliert wird durch Regeln beschrieben.
-
-Wenn wir diesen Teil des Programms umsetzen wollen, müssen
-wir uns für eine Sichtweise entscheiden.
-
-Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
-
-**Aufgaben und Fragen:**
-1. Wie lauten die Regeln?
-1. Wie beschreibst du "das Ergebnis vom Schütteln" für jede
-   Spielerin?
-1. Was soll passieren, wenn man gewonnen oder verloren hat?
-1. Versuche ein Programm zu schreiben, das die Regeln anwendet.
-```
+% **Aufgaben und Fragen:**
+% 1. Wie lauten die Regeln?
+% 1. Wie beschreibst du "das Ergebnis vom Schütteln" für jede
+%    Spielerin?
+% 1. Was soll passieren, wenn man gewonnen oder verloren hat?
+% 1. Versuche ein Programm zu schreiben, das die Regeln anwendet.
+% ```
 
 % ![Regeln für Schere-Stein-Papier](Regeln.png)
 
+% ```{exercise} Schere-Stein-Papier
+% :label: exercise-rock-paper-scissors-all-in-one
 
-```{exercise} Schere-Stein-Papier
-:label: exercise-rock-paper-scissors-all-in-one
+% Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
+% Teile zu einem Ganzen zusammen zu fügen.
 
-Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
-Teile zu einem Ganzen zusammen zu fügen.
+% Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
 
-Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
+% Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
+% - Regelmäßig abwechseln und
+% - aussprechen was ihr tun wollt! 😃
+%```
 
-Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
-* Regelmäßig abwechseln und
-* aussprechen was ihr tun wollt! 😃
-```
+% ### E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
 
+% Der Microbit hat diverse Schnittstellen.
+% Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.
 
+% Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
+% Microbit steuern.
 
-### E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
+% Hast du Ideen, was man damit alles machen könnte?
 
-Der Microbit hat diverse Schnittstellen.
-Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.
+% ```{exercise} E-Textile Ideensammlung und Konzepte
+% :label: exercise-micro-bit-e-textile-1
 
-Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
-Microbit steuern.
+% *In dieser Übung wird noch nicht programmiert, das kommt später.*
 
-Hast du Ideen, was man damit alles machen könnte?
+% Ihr habt einen Microbit, diverse LEDs und einen elektrisch leitenden Faden.
+% Damit könnt ihr beispielsweise einen Schuh oder eine Tasche zum Leuchten
+% bringen.
 
-```{exercise} E-Textile Ideensammlung und Konzepte
-:label: exercise-micro-bit-e-textile-1
+% Diskutiert gemeinsam und arbeitet einen Vorschlag aus:
 
-*In dieser Übung wird noch nicht programmiert, das kommt später.*
+% - Was für Ideen fallen euch ein?
+% - Welche davon würdet ihr gerne umsetzen?
 
-Ihr habt einen Microbit, diverse LEDs und einen elektrisch leitenden Faden.
-Damit könnt ihr beispielsweise einen Schuh oder eine Tasche zum Leuchten
-bringen.
+% Beschreibt eure Idee im Detail:
 
-Diskutiert gemeinsam und arbeitet einen Vorschlag aus:
-* Was für Ideen fallen euch ein?
-* Welche davon würdet ihr gerne umsetzen?
+% - Wie sieht sie aus?
+% - Welche Aufgaben übernimmt der Microbit?
+% - Wie könnte das Programm aussehen?
 
-Beschreibt eure Idee im Detail:
-* Wie sieht sie aus?
-* Welche Aufgaben übernimmt der Microbit?
-* Wie könnte das Programm aussehen?
-
-Präsentiert eure Idee der Gruppe.
-```
+% Präsentiert eure Idee der Gruppe.
+%```
