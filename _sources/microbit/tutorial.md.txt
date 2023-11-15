@@ -306,111 +306,110 @@ Fragen:
 - Hast du auch versucht Skizzen zu machen?
 ```
 
-% ```{exercise} Aufgabe analysieren
-% :label: exercise-rock-paper-scissor-1-description
+```{exercise} Aufgabe analysieren
+:label: exercise-rock-paper-scissor-1-description
+In aller Kürze könnte man das Spiel so beschreiben:
 
-% In aller Kürze könnte man das Spiel so beschreiben:
+1. Wir verbinden zwei Microbits
+1. Wir schütteln drei Mal
+1. Jeder Microbit zeigt ein zufälliges Symbol an
+1. Der eine gewinnt, der andere verliert
 
-% 1. Wir verbinden zwei Microbits
-% 1. Wir schütteln drei Mal
-% 1. Jeder Microbit zeigt ein zufälliges Symbol an
-% 1. Der eine gewinnt, der andere verliert
+Das Programm, das wir später erstellen wollen, muss
+alle diese Dinge tun.
 
-% Das Programm, das wir später erstellen wollen, muss
-% alle diese Dinge tun.
+Wie können wir so ein Programm umsetzen?
 
-% Wie können wir so ein Programm umsetzen?
+Wir haben verschiedene Strategien besprochen um Probleme
+zu lösen:
+- Kannst du das Problem vereinfachen? Wie?
+- Kannst du das Problem in Teilprobleme zerlegen? Welche?
+- Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
+- Kannst du jemandem die Aufgabe im Detail beschreiben?
+Suche dir eine Partnerin und probiere es.
 
-% Wir haben verschiedene Strategien besprochen um Probleme
-% zu lösen:
-% - Kannst du das Problem vereinfachen? Wie?
-% - Kannst du das Problem in Teilprobleme zerlegen? Welche?
-% - Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
-% - Kannst du jemandem die Aufgabe im Detail beschreiben?
-% Suche dir eine Partnerin und probiere es.
+Wenn du dir nicht sicher bist, Spiele das Spiel noch
+einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
+```
 
-% Wenn du dir nicht sicher bist, Spiele das Spiel noch
-% einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
-%```
+```{exercise} Aufgabe zeichnen
+:label: exercise-rock-paper-scissors-1-diagram
 
-% ```{exercise} Aufgabe zeichnen
-% :label: exercise-rock-paper-scissors-1-diagram
+Oft sagt ein Bild mehr als tausend Worte.
+Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
+in ein Bild zu fassen.
+Unser Ziel ist dabei, den Spielablauf zu beschreiben und einzelne
+Teile der Aufgabe zu erkennen.
 
-% Oft sagt ein Bild mehr als tausend Worte.
-% Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
-% in ein Bild zu fassen.
-% Unser Ziel ist dabei, den Spielablauf zu beschreiben und einzelne
-% Teile der Aufgabe zu erkennen.
+Erstelle eine Zeichnung aus der man ablesen kann:
 
-% Erstelle eine Zeichnung aus der man ablesen kann:
+- Wann passiert etwas? Zeitlicher Ablauf.
+- Warum passiert etwas? Logischer Ablauf.
+- Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
+Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?
 
-% - Wann passiert etwas? Zeitlicher Ablauf.
-% - Warum passiert etwas? Logischer Ablauf.
-% - Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
-% Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?
+Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
+andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
+```
 
-% Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
-% andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
-%```
+Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
+können wir probieren sie Schritt für Schritt zu lösen.
+Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
+Das ist okay.
 
-% Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
-% können wir probieren sie Schritt für Schritt zu lösen.
-% Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
-% Das ist okay.
+```{exercise} Teilaufgaben umsetzen
+:label: exercise-rock-paper-scissor-2-implementation
 
-% ```{exercise} Teilaufgaben umsetzen
-% :label: exercise-rock-paper-scissor-2-implementation
+Wir wollen versuchen Schere-Stein-Papier zu programmieren.
 
-% Wir wollen versuchen Schere-Stein-Papier zu programmieren.
+Wir halten uns weiterhin an unser Motto
 
-% Wir halten uns weiterhin an unser Motto
+> Kleine Schritte, Stück für Stück
 
-% > Kleine Schritte, Stück für Stück
+Versuche ganz bewusst zuerst einmal nur kleinere Teilaufgaben
+zu lösen. Wenn das klappt, füge sie zu einem Ganzen zusammen.
 
-% Versuche ganz bewusst zuerst einmal nur kleinere Teilaufgaben
-% zu lösen. Wenn das klappt, füge sie zu einem Ganzen zusammen.
+**Aufgaben:**
+Für jedes Teilproblem oder jede Vereinfachung:
+1. Worin besteht die Aufgabe?
+1. Welche Blöcke brauchst du?
+1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
+  bei jeder Änderung, ob alles so funktioniert, wie du dir
+  das vorstellst.
+```
 
-% **Aufgaben:**
-% Für jedes Teilproblem oder jede Vereinfachung:
-% 1. Worin besteht die Aufgabe?
-% 1. Welche Blöcke brauchst du?
-% 1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
-%    bei jeder Änderung, ob alles so funktioniert, wie du dir
-%    das vorstellst.
-%```
+```{exercise} Regeln anwenden
+:label: exercise-rock-paper-scissor-2-rules
 
-% ```{exercise} Regeln anwenden
-% :label: exercise-rock-paper-scissor-2-rules
+Wer gewinnt und wer verliert wird durch Regeln beschrieben.
 
-% Wer gewinnt und wer verliert wird durch Regeln beschrieben.
+Wenn wir diesen Teil des Programms umsetzen wollen, müssen
+wir uns für eine Sichtweise entscheiden.
 
-% Wenn wir diesen Teil des Programms umsetzen wollen, müssen
-% wir uns für eine Sichtweise entscheiden.
+Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
 
-% Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
+**Aufgaben und Fragen:**
+1. Wie lauten die Regeln?
+1. Wie beschreibst du "das Ergebnis vom Schütteln" für jede
+  Spielerin?
+1. Was soll passieren, wenn man gewonnen oder verloren hat?
+1. Versuche ein Programm zu schreiben, das die Regeln anwendet.
+```
 
-% **Aufgaben und Fragen:**
-% 1. Wie lauten die Regeln?
-% 1. Wie beschreibst du "das Ergebnis vom Schütteln" für jede
-%    Spielerin?
-% 1. Was soll passieren, wenn man gewonnen oder verloren hat?
-% 1. Versuche ein Programm zu schreiben, das die Regeln anwendet.
-% ```
+![Regeln für Schere-Stein-Papier](Regeln.png)
 
-% ![Regeln für Schere-Stein-Papier](Regeln.png)
+```{exercise} Schere-Stein-Papier
+:label: exercise-rock-paper-scissors-all-in-one
 
-% ```{exercise} Schere-Stein-Papier
-% :label: exercise-rock-paper-scissors-all-in-one
+Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
+Teile zu einem Ganzen zusammen zu fügen.
 
-% Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
-% Teile zu einem Ganzen zusammen zu fügen.
+Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
 
-% Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
-
-% Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
-% - Regelmäßig abwechseln und
-% - aussprechen was ihr tun wollt! 😃
-%```
+Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
+- Regelmäßig abwechseln und
+- aussprechen was ihr tun wollt! 😃
+```
 
 % ### E-Textile mit dem Microbit: 👟 👕 + 💻 + 💡 = ❓
 
