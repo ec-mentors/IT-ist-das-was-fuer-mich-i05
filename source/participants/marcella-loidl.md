@@ -1,4 +1,4 @@
-# Die 3 beliebtesten Programmiersprachen 2023
+# Die beliebtesten Programmiersprachen 2023
 <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/e8bb931a-35e6-4106-b65a-80bf538fa621" height="300px">
 
 
