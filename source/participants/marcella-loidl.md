@@ -57,7 +57,7 @@ JavaScript ist eine objektorierentierte Programmiersprache.
 JavaScript wird zusammen mit HTML und CSS hauptsächlich in der Webentwicklung verwendet. 98.7% der Websiten verwenden JavaScript. 
 ### Was sind die Vorteile von JavaScript?
 
-### Was sind die Nachteile von Java?
+### Was sind die Nachteile von JavaScript?
 
 ## C#
 
