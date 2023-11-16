@@ -65,3 +65,5 @@ In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enter
 ## PHP 
 
 ## R
+<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/688f6ab5-f8f4-416d-aef6-1a7a1b4cb440" height="150px">
+
