@@ -51,9 +51,10 @@ In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enter
 ## JavaScript
 
 ### Was ist JavaScript?
+JavaScript ist eine objektorierentierte Programmiersprache.
 
 ### In welchen Bereichen wird JavaScript hauptsächlich verwendet?
-
+JavaScript wird zusammen mit HTML und CSS hauptsächlich in der Webentwicklung verwendet. 98.7% der Websiten verwenden JavaScript.
 ### Was sind die Vorteile von JavaScript?
 
 ### Was sind die Nachteile von Java?
