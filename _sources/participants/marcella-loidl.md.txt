@@ -1,4 +1,4 @@
-# Die beliebtesten Programmiersprachen 2023
+# Die 3 beliebtesten Programmiersprachen 2023
 <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/e8bb931a-35e6-4106-b65a-80bf538fa621" height="300px">
 
 
@@ -72,12 +72,5 @@ JavaScript wird zusammen mit HTML und CSS hauptsächlich in der interaktiven Web
 - aus Sicherheitsgründen wird JavaScript oft von Nutzern deaktiviert (möglicherweise Einschränkungen der Funktionen einer Website bei Deaktivierung von JavaScript)
 - Abhängig von Leistungsfähigkeit des ausführenden Rechners und der Bandbreite, wenig Kontrolle über das Endergebnis auf Seiten der Entwicklung
 
-## C#
-
-## C/C++
-
-## PHP 
-
-## R
 <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/688f6ab5-f8f4-416d-aef6-1a7a1b4cb440" height="150px">
 
