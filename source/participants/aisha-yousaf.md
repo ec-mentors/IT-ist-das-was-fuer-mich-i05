@@ -1,4 +1,4 @@
-# Hairatesantrag #
+# Heiratesantrag #
 Mit der Annahme des Heiratsantrages äußern beide Partner ihren Willen, gemeinsam die Ehe einzugehen. Eine Verlobung ist folglich nicht mehr und nicht weniger, als der meist öffentlich (nicht heimlich) bekundete Beschluss einander zu heiraten. Mit der Trauung wird das Vorhaben in die Tat umgesetzt.Mit der Annahme des Heiratsantrages äußern beide Partner ihren Willen, gemeinsam die Ehe einzugehen. Eine Verlobung ist folglich nicht mehr und nicht weniger, als der meist öffentlich (nicht heimlich) bekundete Beschluss einander zu heiraten. Mit der Trauung wird das Vorhaben in die Tat umgesetzt.Manche Partner lieben das große Tamtam, bei dem alle Freunde, Verwandte und Eltern einbezogen werden, manche möchten lieber einen ganzen privaten Antrag, den Moment nur für sich und den Partner haben. Wenn ihr einen Heiratsantrag machen wollt, solltet ihr euren Partner in- und auswendig kennen.
 
 ![image](https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022958/a6601e82-5455-4e67-8b91-f7a598cae0af)
