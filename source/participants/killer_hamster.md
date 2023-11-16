@@ -13,6 +13,6 @@
 
 ***Future Mr. President?***
 
-<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022821/bd140595-0f0e-4f94-a7ea-4d6635e594bd" alt="drawing" width="500" heigth="400"/>
+<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022821/bd140595-0f0e-4f94-a7ea-4d6635e594bd" alt="drawing" width="300" heigth="400"/>
 
 ***Hamster im Knast***
