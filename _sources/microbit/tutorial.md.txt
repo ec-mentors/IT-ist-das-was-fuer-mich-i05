@@ -280,6 +280,8 @@ Das heißt:
 
 Wie können wir diese Aufgabe angehen?
 
+% Beschreibungsblöcke kurz halten, und nicht zu viel verlangen!
+
 ```{exercise} Spiel kennen lernen
 :label: exercise-rock-paper-scissor-part-1-reading
 
@@ -292,9 +294,9 @@ auf Wikipedia durch.
 Aufgaben:
 1. Suche dir eine Partnerin.
 1. Spielt das Spiel ein paar Mal.
-   * Wisst ihr, wie man es spielt?
-   * Gibt es eine Strategie, mit der man öfter gewinnen kann?
-   * Versucht zu beschreiben was ihr tut, während ihr das Spiel
+   - Wisst ihr, wie man es spielt?
+   - Gibt es eine Strategie, mit der man öfter gewinnen kann?
+   - Versucht zu beschreiben was ihr tut, während ihr das Spiel
      spielt (auch wenn sich das komisch anfühlt).
 1. Versucht eine Anleitung zu schreiben, wie man das Spiel
    spielt.
