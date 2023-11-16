@@ -1,4 +1,6 @@
 # Die beliebtesten Programmiersprachen 2023
+<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/e8bb931a-35e6-4106-b65a-80bf538fa621" height="300px">
+
 
 ## Python
 ### Was ist Python?
@@ -18,6 +20,9 @@ In allen möglichen Bereichen, z.B. im Finanzwesen und in der Softwareentwicklun
 
 ### Was sind die Nachteile von Python?
 - Python ist für Anwendungen, die eine hohe Geschwindigkeit erfordern ungeeignet
+- verbraucht viel Speicher
+- ist ungeeignet für mobile Anwendungen, aufgrund des hohen Speicherverbrauchs und der langsamen Geschwindigkeit
+- Datenbankzugriff mit Python kann schwierig sein, weil er nicht so weit wie in anderen Sprachen entwickelt ist
 
 ## Java
 
