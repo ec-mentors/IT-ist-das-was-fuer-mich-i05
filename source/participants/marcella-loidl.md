@@ -50,6 +50,14 @@ In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enter
 
 ## JavaScript
 
+### Was ist JavaScript?
+
+### In welchen Bereichen wird JavaScript hauptsächlich verwendet?
+
+### Was sind die Vorteile von JavaScript?
+
+### Was sind die Nachteile von Java?
+
 ## C#
 
 ## C/C++
