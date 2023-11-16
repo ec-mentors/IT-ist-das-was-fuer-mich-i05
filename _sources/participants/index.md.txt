@@ -1,14 +1,9 @@
 (participants_target_)=
 # Teilnehmerinnen
 
-- Was ist deine Geschichte?
-- Wo möchtest du hin?
-- Ist IT was für dich?
+Was möchtest du mit der Gruppe teilen? Hier hast du die Möglichkeit, es auf deine persönliche Website zu schreiben.
 
-Fragen wie diese wollen wir mit euch gemeinsam beantworten.
-Jede von euch hat daher einen eigenen Eintrag auf unserer
-Kursseite den wir in den kommenden fünf Wochen mit
-Leben füllen werden.
+Dabei kannst du sehen, wie aus einfachem Text eine Website entsteht.
 
 ```{toctree}
 :maxdepth: 1
