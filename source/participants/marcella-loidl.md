@@ -33,7 +33,7 @@ In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enter
 - sicher
 - einfache Wartung
 
-### Was sin die Nachteile von Java?
+### Was sind die Nachteile von Java?
 - verglichen mit Programmen, die in C oder C++ geschrieben sind und direkt in Maschinencode übersetzt werden, werden Java-Programme viel langsamer ausgeführt
 - 
 
