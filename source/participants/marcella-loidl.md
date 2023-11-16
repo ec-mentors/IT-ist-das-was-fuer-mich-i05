@@ -57,9 +57,20 @@ JavaScript ist eine objektorierentierte Programmiersprache.
 JavaScript wird zusammen mit HTML und CSS hauptsächlich in der interaktiven Webentwicklung verwendet. 98.7% der Websiten verwenden JavaScript.
 
 ### Was sind die Vorteile von JavaScript?
--plattformübergreifend
+- plattformübergreifend
+- leicht zu erlernen, intuitive Bedienung
+- große Community und viel Material im Internet
+- flexibel
+- direkter Datenbankabgleich
+- keine zusätzliche Belastung des Webservers, da clientseitig
+- günstig, wegen weniger Server-Traffic
+- kann automatisch Browser-Probleme beheben (z.B. im CSS-Layout)
 
 ### Was sind die Nachteile von JavaScript?
+- Zusätzliche Belastung für den Arbeitsspeicher des ausführenden Rechners
+- JavaScript-Code ist jederzeit vom Endnutzer einsehbar
+- aus Sicherheitsgründen wird JavaScript oft von Nutzern deaktiviert (möglicherweise Einschränkungen der Funktionen einer Website bei Deaktivierung von JavaScript)
+- Abhängig von Leistungsfähigkeit des ausführenden Rechners und der Bandbreite, wenig Kontrolle über das Endergebnis auf Seiten der Entwicklung
 
 ## C#
 
