@@ -17,10 +17,13 @@ In allen möglichen Bereichen, z.B. im Finanzwesen und in der Softwareentwicklun
 - ständige Weiterentwicklung
 
 ### Was sind die Nachteile von Python?
+- Python ist für Anwendungen, die eine hohe Geschwindigkeit erfordern ungeeignet
 
 ## Java
+
 ### Was ist Java?
 Java ist eine objektorientierte und netzwerkzentierte Programmiersprache
+
 ### In welchen Bereichen wird Java hauptsächlich verwendet?
 In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enterprise-Software, server-orientierte Techhnologien
 
@@ -34,8 +37,11 @@ In allen möglichen Bereichen, z.B. für Handyapps, Big Data Applications, Enter
 - einfache Wartung
 
 ### Was sind die Nachteile von Java?
+- Java-Code kann umständlich sein
+- Java-Code ist wortreich (vor allem im Vergleich mit Python)
 - verglichen mit Programmen, die in C oder C++ geschrieben sind und direkt in Maschinencode übersetzt werden, werden Java-Programme viel langsamer ausgeführt
-- 
+- Kosten für kommerzielle Lizenzen
+- hinkt bei der GUI von Desktop-Programmen hinterher und man muss gründlich suchen, um ein Tool zu finden, das für die Erstellung der grafischen Benutzeroberfläche geeignet ist
 
 ## JavaScript
 
