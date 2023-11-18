@@ -1,6 +1,6 @@
 # Vorlage
 
-*Passe diese Vorlage gerne an!*
+*Pass diese Vorlage gerne an!*
 
 ## Über mich
 
@@ -24,6 +24,7 @@
 ## Mein Projekt
 
 Fragen:
+
 - Woran möchtest du arbeiten?
 - Worum geht es in deinem Projekt?
 - Wie wirst du es umsetzen?
@@ -31,16 +32,18 @@ Fragen:
 
 Dokumente:
 % TODO
-- Slides
 
+- Slides
 
 ## Nächste Schritte
 
 Fragen:
+
 - Welche Berufe sprechen dich an?
 - Welche Ausbildungen könntest du dir vorstellen?
 - ...
 
 Dokumente:
+
 % TODO
 - Docs
