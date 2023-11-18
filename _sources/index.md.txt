@@ -13,9 +13,8 @@ participants/index
 mode
 
 lego/index
-raspberrypi
 microbit/index
-website
+web/index
 projects/projects
 learning
 

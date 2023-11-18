@@ -76,7 +76,7 @@ Die einzelnen Bestandteile und die Übersetzung in Markdown verwaltet ein eigene
 Es heißt [Sphinx](https://www.sphinx-doc.org/en/master/) und ist in der Programmiersprache
 Python geschrieben.
 Die Daten der Website liegen auf einem Server und jedes Mal, wenn wir den Inhalt ändern, wird
-die Seite neu zusammen gebaut und aktualisiert.
+die Seite neu zusammengebaut und aktualisiert.
 
 Da wir Markdown verwenden, ist es ein Leichtes, Inhalte der Website zu ändern - man muss gar nicht
 wissen, wie die Website im Detail funktioniert.
@@ -87,11 +87,24 @@ wissen, wie die Website im Detail funktioniert.
 Nicht jede Person kann die Inhalte der Website ändern.
 Dazu braucht es bestimmte Berechtigungen.
 
-Gehe auf https://github.com/ und lege dort einen User Account an.
+Geh auf <https://github.com/> und leg dort einen User Account an.
+
+Wenn das geklappt hat, mach gleich die nächste Aufgabe!
+```
+
+```{exercise} Issue auf Github anlegen
+:label: exercise-create-issue
+
+Wenn man mit den Entwickler*innen von einem Projekt auf Github Kontakt aufnehmen möchte,
+legt man ein Issue an. Das ist so, wie wenn man in einem Forum einen neuen Thread startet.
+
+Geh auf <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/issues> und erstell ein neues Isuse.
+
+Schreib deinen echten Namen und deinen Benutzernamen hinein.
 
 Du bekommst dann Zugriff auf unsere Kursseite.
 
-Wenn das geklappt hat, hast du ein Mail von GitLab bekommen.
+Wenn das geklappt hat, hast du ein Mail von GitHub bekommen. Nimm die Einladung darin an.
 ```
 
 Die Kursseite kann man sich als Ordner mit vielen Dateien vorstellen.
@@ -103,11 +116,11 @@ kannst du einen Blick hinter die Kulissen werfen.
 ```{exercise} Update der persönlichen Kursseite
 :label: exercise-update-personal-page
 
-Sobald du Zugriff auf die Website hast, kannst du Änderungen
+Zur Wiederholung: Sobald du Zugriff auf die Website hast, kannst du Änderungen
 an den Dateien vornehmen.
 
-Jede von euch hat eine Datei in diesem Ordner: https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/participants, das ist eure persönliche Seite im
-Rahmen unseres Kurses. Genau dort, wollen wir ein paar Updates machen.
+Jede von euch hat eine Datei in diesem Ordner: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/participants>, das ist eure persönliche Seite im Rahmen unseres Kurses. 
+Genau dort wollen wir ein paar Updates machen.
 
 Nutze deinen Eintrag auf der Kursseite um dich kurz vorzustellen:
 * Wie heißt du?
@@ -118,7 +131,7 @@ Nutze deinen Eintrag auf der Kursseite um dich kurz vorzustellen:
 Dateien, nur in eurer eigenen.*
 ```
 
-Es gibt sehr viele Möglichkeiten Webseiten und erstellen und zu verwalten.
+Es gibt sehr viele Möglichkeiten Webseiten zu erstellen und zu verwalten.
 Es gibt Baukastensysteme, mit denen man ganz ohne Programmierkenntnisse Webseiten
 bauen kann.
 Unsere Kursseite ist nur eine Möglichkeit und wir wollen euch die Gelegenheit
@@ -141,7 +154,7 @@ zu finden sind.
 
 Wenn du Hilft brauchst, wende dich an eine Kollegin.
 
-*Damit wir nicht durcheinander kommen, mache bitte keine Änderungen in anderen
+*Damit wir nicht durcheinander kommen, macht bitte keine Änderungen in anderen
 Dateien, nur in eurer eigenen.*
 ```
 
@@ -152,7 +165,7 @@ d.h. zumindest HTML-Dateien zu editieren, ist es sehr hilfreich,
 dazu geeignete Texteditoren zu verwenden.
 
 Es gibt eine Vielzahl von Systemen um die Entwicklung zu erleichtern,
-ein weit verbreitetes Werkzeug ist [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
+ein weit verbreitetes Werkzeug ist [Visual Studio Code (VSCode)](https://code.visualstudio.com/), bzw. [VSCodium](https://vscodium.com/).
 
 VSCode gibt es auch [online](https://vscode.dev/).
 
@@ -165,13 +178,13 @@ findest du hier.
 
 ### mini_index.html
 
-```{literalinclude} ./_static/mini_index.html
+```{literalinclude} ../_static/mini_index.html
 :language: html
 ```
 
 ### mini_style.css
 
-```{literalinclude} ./_static/mini_style.css
+```{literalinclude} ../_static/mini_style.css
 :language: css
 ```
 
