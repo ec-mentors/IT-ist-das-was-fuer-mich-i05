@@ -1,4 +1,4 @@
-# Tag 10 bis 13: Raspberry PI und BBC micro:bit Intro
+# Tag 10 bis 12: BBC micro:bit
 
 **Wie war das nochmal mit Computern und Programmen?** 💻🤔
 

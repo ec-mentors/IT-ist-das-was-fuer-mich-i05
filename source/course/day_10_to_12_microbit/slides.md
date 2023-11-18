@@ -8,7 +8,7 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tage 10 - 13
+## Tage 10 - 12
 
 Wir schlagen ein neues Kapitel auf
 
@@ -17,6 +17,7 @@ Wir schlagen ein neues Kapitel auf
 ## Check In
 
 ### Wie geht es uns?
+
 ### Wie geht es dir?
 
 *2 von 5 Wochen sind schon vergangen.*
