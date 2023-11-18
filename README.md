@@ -132,8 +132,8 @@ and
 In this sections we briefly describe the required actions when a new intake
 starts.
 
-1. Rename old repository and old team (to free names)
-1. Create new repository and new team
+1. Rename old repository and create a new one
+1. Delete old team and create a new one (managing teams requires owner status)
 1. Copy-paste old website into new repository, thereby
    * Discarding the Git-history
    * Deleting participant-related content
