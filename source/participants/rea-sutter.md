@@ -20,7 +20,7 @@
 
 ## Interessen & Hobbys
 
-- Stricken, Häkeln, Spinnen, Klöppeln, Sticken, Nähen
+- Stricken, Häkeln, Spinnen, Klöppeln, Sticken, Nähen, ...
 - Programmieren
 - Wandern
 - Lesen
