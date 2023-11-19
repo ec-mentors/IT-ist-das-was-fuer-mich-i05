@@ -4,7 +4,7 @@
 
 - Mag keine Hosen
 - Vegetarierin seit > 30 Jahren
-- Habe in 4 verschiedenen Ländern gewohnt
+- Lieblingsessen: Vanillepudding
 
 ## Ausbildung
 
@@ -16,8 +16,7 @@
 
 - verschiedenes von Fließbandarbeit in der Fabrik bis Hotelrezeption
 - Softwareentwicklerin
-- Trainerin
-- Lektorin
+- Trainerin/Lektorin/Mentorin
 
 ## Interessen & Hobbys
 
