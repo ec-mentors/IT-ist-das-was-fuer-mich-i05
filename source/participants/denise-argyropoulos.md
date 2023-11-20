@@ -21,8 +21,14 @@ Das Surfen im Inkognito-Modus verhindert, dass Ihre Aktivitäten nach Abschluss 
 1. Öffnen Sie das Menü (über die drei Punkte oben rechts)
  <img scr="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/f6b058e2-9120-4069-a674-b6f7693f60be">
 2. Wählen Sie Neues Inkognitofenster. Ein neues Fenster mit dem unverkennbaren Hut-und-Brille-Logo wird angezeigt.
-   <img scr="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/e5e7e4a4-3dd3-42f4-8eb9-fc19bf12cf35">
+   <img scr=" https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/1efdbe78-82b2-4c47-92a5-01f1e664fafd">
+
 3. Nun können sie mit den oben genannten informationen wie gewohnt surfen
     Sie können ein neues Inkognitofenster auch mit der Tastenkombination Strg + Umschalt + N öffnen. Zum Verlassen des Inkognito-Modus klicken Sie einfach auf das X oben rechts, um das Fenster zu schließen.
 
 Fazit: Der Inkognito-Modus sorgt in gewissem Maße für privates Surfen, aber es bleiben Lücken bestehen, die Hacker und Spione ausnutzen können.
+
+
+
+quellen angabe: Internet (google chrome)
+
