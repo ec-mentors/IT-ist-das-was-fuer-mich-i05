@@ -516,7 +516,16 @@ title="Print to PDF"
 <li><p>Man gibt eine Internetadresse ein oder klickt auf einen Link</p></li>
 <li><p>Der Webbrowser leitet die URL an den Router weiter</p></li>
 <li><p>Der Router findet mit Hilfe eines DNS-Servers (DNS=Domain Name System) die IP-Adresse der Website heraus</p></li>
-<li><p>Router teilt die IP-Adresse der Website, seine eigene IP-Adresse, das Betriebssytem, den Browser sowie die Art des Geräts, auf dem die Website angezeigt werden soll, mit</p></li>
+<li><p>Der Router fragt die benötigten Daten für den Seitenaufbau beim entsprechenden Webserver an. Diese Anfrage erfolgt via HTTP in Form eines Datenpakets, das alle Informationen beinhaltet, die der Webserver benötigt, um die Webseitendaten auszuliefern. Das Datenpaket beeinhaltet:
+-die IP-Adresse der Website
+-seine eigene IP-Adresse</p></li>
+</ol>
+<ul class="simple">
+<li><p>Auskunft über das Betriebssytem</p></li>
+<li><p>den Browser</p></li>
+<li><p>die Art des Geräts, auf dem die Website angezeigt werden soll</p></li>
+</ul>
+<ol class="arabic simple" start="7">
 <li><p>Webserver wertet Informationen aus und übermittelt einen HTTP-Status-Code (HTTP=Hypertext Transfer Protocol)</p></li>
 <li><p>Ist die Anfrage erfolgreich versendet der Server ein Datenpaket mit allen für den Seitenaufbau notwendigen Informationen an den Webbrowser</p></li>
 <li><p>Die eigehenden Datenpakete werden vom Router an den Rechner weitergeleitet</p></li>
