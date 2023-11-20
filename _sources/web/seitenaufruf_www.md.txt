@@ -4,6 +4,7 @@
 3. Der Router findet mit Hilfe eines DNS-Servers (DNS=Domain Name System) die IP-Adresse der Website heraus
 4. Der Router fragt die benötigten Daten für den Seitenaufbau beim entsprechenden Webserver an. Diese Anfrage erfolgt via HTTP (HTTP=Hypertext Transfer Protocol)  in Form eines Datenpakets, das alle Informationen beinhaltet, die der Webserver benötigt, um die Webseitendaten auszuliefern. 
 Das Datenpaket beeinhaltet:
+
  - die IP-Adresse der Website
  - die IP-Adresse des Routers
  - Auskunft über das Betriebssytem
