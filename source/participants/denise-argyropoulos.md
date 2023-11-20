@@ -1,7 +1,7 @@
-#Raavas wonderland#
+                                                                  **Raavas wonderland**
 In mein wunderland, da wäre alles ganz anders....
 
-<img src=" https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/98e9c71d-c1cc-4904-af4e-b72a88d0ab79">
+<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/98e9c71d-c1cc-4904-af4e-b72a88d0ab79">
 
 *some wisedom*......
 
