@@ -62,7 +62,6 @@ Fragen:
 Dagmar war so freundlich uns ihre Slides zu schicken:
 * {download}`Frauen in der Technik - Dagmar bei Sportradar <../_static/Frauen in der Technik - Dagmar bei Sportradar.pdf>`
 
-
 ## Softwareentwicklerin (Krisztina Horvat-Schwarcz)
 
 ```{exercise} Gastvortragende: Krisztina Horvath-Schwarcz
