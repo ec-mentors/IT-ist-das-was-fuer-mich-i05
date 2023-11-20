@@ -20,11 +20,11 @@ In mein wunderland, da wäre alles ganz anders....
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *best place* to be **FREE** 
-<img src=" https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/e1a8ff89-19d9-4fcd-a40d-0c541a6f48c9">
+<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/e1a8ff89-19d9-4fcd-a40d-0c541a6f48c9">
 **PSYLAND 25** <3 <3 <3 
 
 
- <img src=" https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/54b23bee-580b-4b5f-8ae7-1df76de1ca33">
+ <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/54b23bee-580b-4b5f-8ae7-1df76de1ca33">
  u ever had a suspenion?;)
 
 
