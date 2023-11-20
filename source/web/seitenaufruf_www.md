@@ -9,4 +9,3 @@
 8. Der Webbrowser analysiert die Datenpakete und zeigt die Website an
 
 
-<img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022420/53a90b01-a4f1-4dac-8a0d-b73d4904ffea" height="480px">
