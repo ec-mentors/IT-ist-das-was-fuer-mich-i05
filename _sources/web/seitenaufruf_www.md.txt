@@ -7,7 +7,7 @@ Das Datenpaket beeinhaltet:
 
    - die IP-Adresse der Website
    - die IP-Adresse des Routers
-   - Auskunft über das Betriebssytem
+   - Auskunft über das Betriebssystem
    - Auskunft über den Browser 
    - Auskunft über die Art des Geräts, auf dem die Website angezeigt werden soll
 7. Der Webserver wertet Informationen aus und übermittelt einen HTTP-Status-Code 
