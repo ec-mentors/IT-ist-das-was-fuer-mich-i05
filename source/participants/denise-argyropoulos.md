@@ -1,4 +1,4 @@
-![image](https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/a2325217-b5e1-42e0-8f1a-4588dcb00cb5)                                                                  **Raavas wonderland**
+                                                                 **Raavas wonderland**
 In mein wunderland, da wäre alles ganz anders....
 
 <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/98e9c71d-c1cc-4904-af4e-b72a88d0ab79">
