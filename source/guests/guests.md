@@ -9,8 +9,13 @@ die sich für uns Zeit nehmen damit wir sie ein bisschen kennen
 lernen und dadurch Einblicke in ihre persönliche Geschichte nehmen
 können.
 
-## UX-Designerin Anna
+## UX-Designerin Anna Großalber
 
+Anna hat bei Everyone Codes die Ausbildung UX/UI Design absolviert.
+Sie hat uns erklärt, was UX/UI Design eigentlich ist, wozu man das braucht,
+und uns einen Einblick in ihren Arbeitsalltag gegeben.
+
+Sobald sie uns ihre Präsentation zur Verfügung stellt, wird sie hier verlinkt.
 
 <!-- <img src="./i04_guest_JuliaMittas.jpg" alt="">
 
