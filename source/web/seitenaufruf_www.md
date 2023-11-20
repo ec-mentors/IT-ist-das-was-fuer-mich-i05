@@ -1,5 +1,5 @@
 # Was passiert bei einem Seitenaufruf?
-1. Man gibt eine Internetadresse ein
+1. Man gibt eine Internetadresse ein oder klickt auf einen Link
 2. Der Webbrowser leitet die URL an den Router weiter
 3. Der Router findet mit Hilfe eines DNS-Servers (DNS=Domain Name System) die IP-Adresse der Website heraus
 4. Router teilt die IP-Adresse der Website, seine eigene IP-Adresse, das Betriebssytem, den Browser sowie die Art des Geräts, auf dem die Website angezeigt werden soll, mit
