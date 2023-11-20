@@ -19,6 +19,9 @@ Das Surfen im Inkognito-Modus verhindert, dass Ihre Aktivitäten nach Abschluss 
 -Hilft bei der Verwaltung von Browsererweiterungen, weil diese im Inkognito-Modus automatisch deaktiviert werden
 
 **So aktivieren Sie den Inkognito-Modus**
+
+quellen angabe: Internet (chrome) 
+https://www.avg.com/de/signal/what-is-incognito-mode#:~:text=Wenn%20Sie%20im%20Inkognito%2DModus,Ihren%20Online%2DKonten%20angemeldet%20werden.
 1. Öffnen Sie das Menü (über die drei Punkte oben rechts)
  <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/f6b058e2-9120-4069-a674-b6f7693f60be">
 2. Wählen Sie Neues Inkognitofenster. Ein neues Fenster mit dem unverkennbaren Hut-und-Brille-Logo wird angezeigt.
