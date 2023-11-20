@@ -6,7 +6,7 @@ Davon abgesehen bewirken privates Surfen und der Inkognito-Modus in allen Browse
 
 **Ist der Inkognito-Modus wirklich privat?**
 Der Inkognito-Modus schafft keine vollständige Privatsphäre. Nachdem Sie das Fenster schließen, sorgt der Inkognito-Modus für das Löschen des Browserverlaufs, der Cookies und Cachedaten in Chrome, damit Ihre Aktivitäten vor anderen Benutzern desselben Geräts verborgen bleiben. Der Inkognito-Modus verhindert aber nicht, dass Ihre Informationen für besuchte Webseiten oder andere Dritte sichtbar sind.
-Ihre IP-Adresse wird im Inkognito-Modus nicht verborgen, sodass Ihr Standort für jeden erkennbar bleibt, der Sie ausspionieren möchte. Internetdienstanbieter, besuchte Webseiten und Suchmaschinen können weiterhin Ihre IP-Adresse bestimmen und Ihre digitalen Spuren verfolgen. Deshalb reicht der Inkognito-Modus nicht aus, um Ihre Privatsphäre zu schützen und Tracking zu verhindern.
+Ihre IP-Adresse wird im Inkognito-Modus nicht verborgen, sodass Ihr Standort für jeden erkennbar bleibt, der Sie ausspionieren möchte. Internetdienstanbieter, besuchte Webseiten und Suchmaschinen können weiterhin Ihre IP-Adresse bestimmen und Ihre digitalen Spuren verfolgen. Deshalb reicht der Inkognito-Modus nicht aus, um Ihre Privatsphäre zu schützen und Tracking zu verhindern. auch vor malware oder hacker/viren bietet er keinen schutz
 
 **Was macht der Inkognito-Modus?**
 Das Surfen im Inkognito-Modus verhindert, dass Ihre Aktivitäten nach Abschluss der Sitzung gespeichert werden, um sie vor anderen Personen abzuschirmen, die dasselbe Gerät benutzen. Durch das Schließen eines Inkognito-Browserfensters werden Ihr Suchverlauf, die Cookies und unzählige andere Daten, die Sie im Inkognito-Modus heruntergeladen haben, unverzüglich gelöscht.
