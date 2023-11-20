@@ -1,4 +1,8 @@
-# Tag 15-17: Web und Micro:bit
+# Tag 15-17: Internet, WorldWideWeb, Webseiten
+
+Wir haben bisher schon viel gelernt! Hier sind eure Eindrücke.
+
+![Post-its mit bisherigen Themen](./bisher-gelernt.jpg)
 
 ## Was ist eigentlich eine Website? 🌐 🤔
 
