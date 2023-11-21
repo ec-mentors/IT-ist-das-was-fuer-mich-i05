@@ -35,18 +35,13 @@ paginate: true
 
 ---
 
-# Pause ☕
-
-Gleich geht's weiter.
-
----
-
 ## Web Intro 🌐 🤓
 
-- Was weißt du über das Internet?
 - Was passiert, wenn du eine Webseite aufrufst?
-- Was ist eine Webseite?
-- Wie erstelle ich eine Webseite?
+- Wie funktioniert eigentlich eine Suchmaschine?
+- Was sind diese Cookies, die ich immer akzeptieren soll?
+- Was ist dieser Inkognito-Modus im Browser?
+
 
 ---
 
