@@ -43,4 +43,22 @@ Die Ergebnisse sind dann hier zu finden:
 - [Inkognito-Fenster](../../web/inkognito.md)
 % - [Cloud](../../web/cloud.md)
 
+## HTML & CSS
+
+Man kann webseiten in Markdown schreiben, und sie von einem Programm wie [Sphinx](https://www.sphinx-doc.org/en/master/) übersetzen lassen. Oder man schreibt sie direkt in HTML, und verwendet CSS für die Formatierung.
+
+Hier findest du eine kleine [HTML-Datei](../../_static/mini_index.html) und eine [CSS-Datei](../../_static/mini_style.css). Speicher sie auf deinem Laptop (beide im gleichen Ordner), und erweitere sie nach Lust und Laune! Dein Code in der HTML-Datei kommt dort hin, wo ```<!--page content-->``` steht.
+
+**mini_index.html**
+
+```{literalinclude} ../../_static/mini_index.html
+:language: html
+```
+
+**mini_style.css**
+
+```{literalinclude} ../../_static/mini_style.css
+:language: css
+```
+
 {download}`🎬 Slides <./slides.pdf>`

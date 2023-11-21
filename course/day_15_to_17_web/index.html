@@ -513,6 +513,11 @@ title="Print to PDF"
    Interessantes rund ums Internet 🌐 💻
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#html-css">
+   HTML &amp; CSS
+  </a>
+ </li>
 </ul>
 
     </nav>
@@ -540,6 +545,11 @@ title="Print to PDF"
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#interessantes-rund-ums-internet">
    Interessantes rund ums Internet 🌐 💻
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#html-css">
+   HTML &amp; CSS
   </a>
  </li>
 </ul>
@@ -591,6 +601,46 @@ title="Print to PDF"
 <li><p><a class="reference internal" href="../../web/cookies.html"><span class="doc std std-doc">Cookies</span></a></p></li>
 <li><p><a class="reference internal" href="../../web/inkognito.html"><span class="doc std std-doc">Inkognito-Fenster</span></a></p></li>
 </ul>
+</section>
+<section id="html-css">
+<h2>HTML &amp; CSS<a class="headerlink" href="#html-css" title="Link zu dieser Überschrift">#</a></h2>
+<p>Man kann webseiten in Markdown schreiben, und sie von einem Programm wie <a class="reference external" href="https://www.sphinx-doc.org/en/master/">Sphinx</a> übersetzen lassen. Oder man schreibt sie direkt in HTML, und verwendet CSS für die Formatierung.</p>
+<p>Hier findest du eine kleine <a class="reference download internal" download="" href="../../_downloads/956d337b3288b5ac8e0cf290ea706500/mini_index.html"><span class="xref download myst">HTML-Datei</span></a> und eine <a class="reference download internal" download="" href="../../_downloads/f4d7f077cddcbe26c2badb7f5f148da1/mini_style.css"><span class="xref download myst">CSS-Datei</span></a>. Speicher sie auf deinem Laptop (beide im gleichen Ordner), und erweitere sie nach Lust und Laune! Dein Code in der HTML-Datei kommt dort hin, wo <code class="docutils literal notranslate"><span class="pre">&lt;!--page</span> <span class="pre">content--&gt;</span></code> steht.</p>
+<p><strong>mini_index.html</strong></p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>title<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;mini_style.css&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;script.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Header Text in h1 Tags<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+    <span class="cm">&lt;!-- page content --&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+</div>
+<p><strong>mini_style.css</strong></p>
+<div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="nt">body</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">background-color</span><span class="p">:</span><span class="w"> </span><span class="kc">lightblue</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">h1</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">white</span><span class="p">;</span>
+<span class="w">    </span><span class="k">text-align</span><span class="p">:</span><span class="w"> </span><span class="kc">center</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">font-family</span><span class="p">:</span><span class="w"> </span><span class="n">verdana</span><span class="p">;</span>
+<span class="w">    </span><span class="k">font-size</span><span class="p">:</span><span class="w"> </span><span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
 <p><a class="reference download internal" download="" href="../../_downloads/e721268e5588bb753a9bf0dd7f4f6581/slides.pdf"><code class="xref download docutils literal notranslate"><span class="pre">🎬</span> <span class="pre">Slides</span></code></a></p>
 </section>
 </section>
