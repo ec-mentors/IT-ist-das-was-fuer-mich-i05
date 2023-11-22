@@ -1,4 +1,5 @@
-# Inkognito-Modus#
+# Inkognito-Modus
+
 **was ist der inkognito modus?**
 Als „Inkognito-Modus“ wird in Google Chrome die Funktion für privates Surfen bezeichnet. Wenn Sie im Inkognito-Modus surfen, bleiben Ihre Aktivitäten nach beendeter Sitzung nicht auf Ihrem Computer oder im Browser gespeichert. Außerdem verhindert der Inkognito-Besuch auf Webseiten, dass Sie automatisch bei Ihren Online-Konten angemeldet werden.
 Cookies, Tracker und Ihr Suchverlauf können von Dritten weiterhin erfasst werden, während Sie im Inkognito-Modus surfen, aber diese Daten werden nach der Sitzung nicht auf Ihrem Computer gespeichert, sondern beim Schließen des Fensters gelöscht. Andere gängige Browser bieten ebenfalls Inkognito-Surfen, jedoch unter einer anderen Bezeichnung: privates Surfen--- Firefox, Safari
@@ -20,7 +21,6 @@ Das Surfen im Inkognito-Modus verhindert, dass Ihre Aktivitäten nach Abschluss 
 
 **So aktivieren Sie den Inkognito-Modus**
 
-
 1. Öffnen Sie das Menü (über die drei Punkte oben rechts)
  <img src="https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/assets/151022614/f6b058e2-9120-4069-a674-b6f7693f60be">
 2. Wählen Sie Neues Inkognitofenster. Ein neues Fenster mit dem unverkennbaren Hut-und-Brille-Logo wird angezeigt.
@@ -32,6 +32,4 @@ Das Surfen im Inkognito-Modus verhindert, dass Ihre Aktivitäten nach Abschluss 
 
 Fazit: Der Inkognito-Modus sorgt in gewissem Maße für privates Surfen, aber es bleiben Lücken bestehen, die Hacker und Spione ausnutzen können.
 
-quellen angabe: Internet (chrome) 
-https://www.avg.com/de/signal/what-is-incognito-mode#:~:text=Wenn%20Sie%20im%20Inkognito%2DModus,Ihren%20Online%2DKonten%20angemeldet%20werden.
-
+quellen angabe: Internet (chrome) <https://www.avg.com/de/signal/what-is-incognito-mode#:~:text=Wenn%20Sie%20im%20Inkognito-Modus,Ihren%20Online-Konten%20angemeldet%20werden>.
