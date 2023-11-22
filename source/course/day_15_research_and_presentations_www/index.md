@@ -32,9 +32,15 @@ Die Ergebnisse sind dann hier zu finden:
 Und die Poster zu den Präsentationen sind hier:
 
 ![Seitenaufruf](./seitenaufruf.jpg)
+
 <br>
+
 ![Suchmaschine](./suchmaschinen.jpg)
+
 <br>
+
 ![cookies](./cookies.jpg)
+
 <br>
+
 ![Inkognito-Modus](./inkognito.jpg)
