@@ -25,6 +25,6 @@ Hier findest du Anleitungen und Übungen zu HTML und CSS:
 - {ref}`exercise-more-html`
 - {ref}`exercise-html-tutorial-en`
 - {ref}`exercise-html-tutorial-de`
-- {ref}`exercise-html-write-html`
+- {ref}`exercise-write-html`
 - {ref}`exercise-css-tutorial-en`
 - {ref}`exercise-css-tutorial-de`
