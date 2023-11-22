@@ -24,10 +24,10 @@ Wir machen heute folgende Übungen:
 
 Die Ergebnisse sind dann hier zu finden:
 
-- [Seitenaufruf](../../web/seitenaufruf_www.md)
-- [Suchmaschinen](../../web/suchmaschinen.md)
-- [Cookies](../../web/cookies.md)
-- [Inkognito-Modus](../../web/inkognito.md)
+- [Seitenaufruf](../../web/04_seitenaufruf.md)
+- [Suchmaschinen](../../web/05_suchmaschinen.md)
+- [Cookies](../../web/06_cookies.md)
+- [Inkognito-Modus](../../web/07_inkognito.md)
 
 Und die Poster zu den Präsentationen sind hier:
 

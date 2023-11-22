@@ -1,4 +1,3 @@
-
 # Das World Wide Web
 
 Wir haben bisher immer vom Internet gesprochen, und haben das World Wide Web damit gemeint.
@@ -23,7 +22,7 @@ Hier sind ein paar Links als Starthilfe:
 - <https://ahrefs.com/blog/de/wie-suchmaschinen-funktionieren/>
 - <https://yewtu.be/watch?v=yROuHLT7LfA>
 
-Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/suchmaschinen.md>
+Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/05_suchmaschinen.md>
 
 ***Denkt daran:*** Wenn man Teile eines Textes auf die eigene 
 Website kopiert, muss man die Adresse dieser Seite als Quelle angeben!
@@ -51,7 +50,7 @@ Hier sind ein paar Links als Starthilfe:
 - <https://www.giga.de/ratgeber/tipps/wie-funktioniert-das-internet-kurz-und-buendig-erklaert/>
 - <https://yewtu.be/watch?v=fpqhjEtznVk>
 
-Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/seitenaufruf_www.md>
+Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/04_seitenaufruf.md>
 
 ***Denkt daran:*** Wenn man Teile eines Textes auf die eigene 
 Website kopiert, muss man die Adresse dieser Seite als Quelle angeben!
@@ -77,7 +76,7 @@ Hier sind ein paar Links als Starthilfe:
 - <https://www.privacytutor.de/blog/cookies/>
 - <https://yewtu.be/watch?v=38YYI-Pbl0g>
 
-Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/cookies.md>
+Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/06_cookies.md>
 
 ***Denkt daran:*** Wenn man Teile eines Textes auf die eigene 
 Website kopiert, muss man die Adresse dieser Seite als Quelle angeben!
@@ -102,36 +101,10 @@ Hier sind ein paar Links als Starthilfe:
 - <https://www.futurezone.de/digital-life/article246893/was-ist-der-inkognito-modus.html>
 - <https://yewtu.be/watch?v=jcS5fXJVmGc>
 
-Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/inkognito.md>
+Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/07_inkognito.md>
 
 ***Denkt daran:*** Wenn man Teile eines Textes auf die eigene 
 Website kopiert, muss man die Adresse dieser Seite als Quelle angeben!
 
 ```
 
-%```{exercise} Was ist eigentlich die Cloud?
-% :label: exercise-what-is-cloud
-
-% iCloud, GoogleDrive - viele Handys speichern z.B. Fotos automatisch in der Cloud.
-% **Was ist diese Cloud?**
-
-% Außer Fotos zu speichern, kann "die Cloud" noch mehr. Was zum Beispiel? Was sind
-% die Vor- und Nachteile der Cloud?
-
-% Sucht in der Gruppe zunächst nach Informationen. Fasst die Informationen auf
-% einer Website zusammen. Am Ende des Tages werdet ihr euer Ergebnis präsentieren.
-% Wie könnt ihr die Informationen möglichst verständlich an eure Kolleginnen
-% weitergeben?
-
-% Hier sind ein paar Links als Starthilfe:
-
-% - <https://web.de/online-speicher/was-ist-die-cloud/>
-% - <https://www.weclapp.com/de/lexikon/cloud/>
-% - <https://yewtu.be/watch?v=uDzPUOk3N_k>
-
-% Für die Ergebnisse: <https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/web/cloud.md>
-
-% ***Denkt daran:*** Wenn man Teile eines Textes auf die eigene
-% Website kopiert, muss man die Adresse dieser Seite als Quelle angeben!
-
-% ```
