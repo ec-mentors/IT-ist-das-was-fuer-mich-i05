@@ -42,7 +42,6 @@ paginate: true
 - Was sind diese Cookies, die ich immer akzeptieren soll?
 - Was ist dieser Inkognito-Modus im Browser?
 
-
 ---
 
 ## Pause ☕
