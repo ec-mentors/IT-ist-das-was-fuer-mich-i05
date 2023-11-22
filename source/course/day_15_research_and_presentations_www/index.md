@@ -37,4 +37,4 @@ Und die Poster zu den Präsentationen sind hier:
 <br>
 ![cookies](./cookies.jpg)
 <br>
-Inkognito-Modus: TBD
+![Inkognito-Modus](./inkognito.jpg)
