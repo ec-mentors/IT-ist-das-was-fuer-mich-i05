@@ -1,6 +1,6 @@
 # Tag 13: Web Intro
 
-**Wie funktionieren Webseiten?** 🌐 🤔
+## Was ist eigentlich eine Website? 🌐 🤔
 
 Heute wollen wir uns eine neue Frage stellen:
 
@@ -15,4 +15,5 @@ Wir machen heute folgende Übung(en):
 
 - {ref}`exercise-markdown`
 - {ref}`exercise-github-user-account`
+- {ref}`exercise-create-issue`
 - {ref}`exercise-update-personal-page`
