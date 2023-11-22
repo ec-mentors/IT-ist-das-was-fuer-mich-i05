@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Was passiert bei einem Seitenaufruf? &#8212; Arbeitsmaterialien für Berufsorientierung IT</title>
+    <title>Webseiten mit HTML und CSS &#8212; Arbeitsmaterialien für Berufsorientierung IT</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -46,8 +46,8 @@
     <link rel="shortcut icon" href="../_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
     <link rel="search" title="Suche" href="../search.html" />
-    <link rel="next" title="Suchmaschinen" href="suchmaschinen.html" />
-    <link rel="prev" title="Inkognito-Modus" href="inkognito.html" />
+    <link rel="next" title="Was passiert bei einem Seitenaufruf?" href="04_seitenaufruf.html" />
+    <link rel="prev" title="Das World Wide Web" href="02_www.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="de">
     
@@ -312,38 +312,38 @@
   </label>
   <ul class="current">
    <li class="toctree-l2">
-    <a class="reference internal" href="cookies.html">
-     Cookies
+    <a class="reference internal" href="01_webseite.html">
+     Webseiten mit Markdown
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="html_css.html">
-     HTML und CSS
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="inkognito.html">
-     Inkognito-Modus
+    <a class="reference internal" href="02_www.html">
+     Das World Wide Web
     </a>
    </li>
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
+     Webseiten mit HTML und CSS
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="04_seitenaufruf.html">
      Was passiert bei einem Seitenaufruf?
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="suchmaschinen.html">
+    <a class="reference internal" href="05_suchmaschinen.html">
      Suchmaschinen
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="web.html">
-     Das World Wide Web
+    <a class="reference internal" href="06_cookies.html">
+     Cookies
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="website.html">
-     Website
+    <a class="reference internal" href="07_inkognito.html">
+     Inkognito-Modus
     </a>
    </li>
   </ul>
@@ -454,7 +454,7 @@ title="Fullscreen mode"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/web/seitenaufruf_www.md.txt"
+        <a href="../_sources/web/03_html_css.md.txt"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -503,7 +503,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Was passiert bei einem Seitenaufruf?</h1>
+                <h1>Webseiten mit HTML und CSS</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -515,27 +515,163 @@ title="Print to PDF"
                 
               <div>
                 
-  <section id="was-passiert-bei-einem-seitenaufruf">
-<h1>Was passiert bei einem Seitenaufruf?<a class="headerlink" href="#was-passiert-bei-einem-seitenaufruf" title="Link zu dieser Überschrift">#</a></h1>
-<ol class="arabic simple">
-<li><p>Man gibt eine Internetadresse ein oder klickt auf einen Link</p></li>
-<li><p>Der Webbrowser leitet die URL an den Router weiter</p></li>
-<li><p>Der Router findet mit Hilfe eines DNS-Servers (DNS=Domain Name System) die IP-Adresse der Website heraus</p></li>
-<li><p>Der Router fragt die benötigten Daten für den Seitenaufbau beim entsprechenden Webserver an. Diese Anfrage erfolgt via HTTP (HTTP=Hypertext Transfer Protocol)  in Form eines Datenpakets, das alle Informationen beinhaltet, die der Webserver benötigt, um die Webseitendaten auszuliefern.
-Das Datenpaket beeinhaltet:</p>
+  <section id="webseiten-mit-html-und-css">
+<h1>Webseiten mit HTML und CSS<a class="headerlink" href="#webseiten-mit-html-und-css" title="Link zu dieser Überschrift">#</a></h1>
+<p>Seiten mit HTML und CSS zu erstellen ist etwas komplizierter als mit Markdwon. Dafür gibt es mehr Möglichkeiten zur Gestaltung.</p>
+<div class="exercise admonition" id="exercise-html-css">
+
+<p class="admonition-title"><span class="caption-number">Exercise 27 </span> (Was sind HTML und CSS)</p>
+<section id="exercise-content">
+<p>Weißt du noch, was HTML und CSS sind? Sie spielen ganz unterschiedliche Rollen.</p>
 <ul class="simple">
-<li><p>die IP-Adresse der Website</p></li>
-<li><p>die IP-Adresse des Routers</p></li>
-<li><p>Auskunft über das Betriebssystem</p></li>
-<li><p>Auskunft über den Browser</p></li>
-<li><p>Auskunft über die Art des Geräts, auf dem die Website angezeigt werden soll</p></li>
+<li><p>Wofür verwendet an HTML?</p></li>
+<li><p>Wofür verwendet man CSS?</p></li>
 </ul>
-</li>
-<li><p>Der Webserver wertet Informationen aus und übermittelt einen HTTP-Status-Code</p></li>
-<li><p>Ist die Anfrage erfolgreich versendet der Server ein Datenpaket mit allen für den Seitenaufbau notwendigen Informationen an den Webbrowser</p></li>
-<li><p>Die eigehenden Datenpakete werden vom Router an den Rechner weitergeleitet</p></li>
-<li><p>Der Webbrowser analysiert die Datenpakete und zeigt die Website an</p></li>
-</ol>
+</section>
+</div>
+<p><strong>mini_index.html</strong></p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>title<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;mini_style.css&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;script.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Header Text in h1 Tags<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+    <span class="cm">&lt;!-- page content --&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+</div>
+<p><strong>mini_style.css</strong></p>
+<div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="nt">body</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">background-color</span><span class="p">:</span><span class="w"> </span><span class="kc">lightblue</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">h1</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">white</span><span class="p">;</span>
+<span class="w">    </span><span class="k">text-align</span><span class="p">:</span><span class="w"> </span><span class="kc">center</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">font-family</span><span class="p">:</span><span class="w"> </span><span class="n">verdana</span><span class="p">;</span>
+<span class="w">    </span><span class="k">font-size</span><span class="p">:</span><span class="w"> </span><span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<div class="exercise admonition" id="exercise-create-minimal-webpage">
+
+<p class="admonition-title"><span class="caption-number">Exercise 28 </span> (Minimale Webseite erstellen)</p>
+<section id="exercise-content">
+<p>Speichere die oben gezeigten Texte jeweils als eigene Datei
+in einem gemeinsamen Ordner und öffne die HTML-Datei in einem Browser.</p>
+<p>Was siehst du?</p>
+<p>Fragen:</p>
+<ul class="simple">
+<li><p>Wie hängen die Dateien zusammen?</p></li>
+<li><p>Wieso ist es wichtig, dass sie im gleichen Ordner liegen?</p></li>
+<li><p>Welche Fragen hast du jetzt?</p></li>
+</ul>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-more-html">
+
+<p class="admonition-title"><span class="caption-number">Exercise 29 </span> (HTML-Datei erweitern)</p>
+<section id="exercise-content">
+<p>Wir haben schon verschiedene Tags angeschaut:</p>
+<ul class="simple">
+<li><p>&lt;h1&gt;…&lt;/h1&gt;</p></li>
+<li><p>&lt;h2&gt;…&lt;/h2&gt;</p></li>
+<li><p>&lt;h3&gt;…&lt;/h3&gt;</p></li>
+<li><p>&lt;p&gt;…&lt;/p&gt;</p></li>
+<li><p>&lt;ul&gt;…&lt;/ul&gt;</p></li>
+<li><p>&lt;li&gt;…&lt;/li&gt;</p></li>
+</ul>
+<p>Weißt du noch, wie man sie verwendet?</p>
+<p>Ergänze die HTML-Datei von der vorigen Übung mit Inhalt. Du kannst die Seite so gestalten wie auf dem Bild unten, oder so wie du willst.</p>
+<p><img alt="Testseite" src="../_images/testseite.png" /></p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-html-tutorial-en">
+
+<p class="admonition-title"><span class="caption-number">Exercise 30 </span> (HTML-Tutorial auf englisch)</p>
+<section id="exercise-content">
+<p>Wenn du so weit gekommen bist, brauchst du ein bisschen mehr Hintergrundwissen. Auf dieser Seite gibt es gute Erklärungen:
+<a class="reference external" href="https://www.w3schools.com/html/default.asp">W3Schools</a>.</p>
+<p>Lies folgende Kapitel, und mach die Übungen dazu. Themen mit * sind eine Wiederholung, enthalten aber mehr nützliche Informationen - es ist ratsam, sie auch durchzuarbeiten. Die Kapitel, die nicht hier in der Liste sind, kannst du auslassen.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.w3schools.com/html/default.asp">Home</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_intro.asp">Introduction</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_editors.asp">Editors</a> *</p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_basic.asp">Basic</a> *</p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_elements.asp">Elements</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_attributes.asp">Attributes</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_headings.asp">Headings</a> *</p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_paragraphs.asp">Paragraphs</a> *</p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_links.asp">Links</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_images.asp">Images</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_lists.asp">Lists</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_blocks.asp">Block and Inline</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_div.asp">Div</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/html_id.asp">Id</a></p></li>
+</ul>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-html-tutorial-de">
+
+<p class="admonition-title"><span class="caption-number">Exercise 31 </span> (HTML-Tutorial auf deutsch)</p>
+<section id="exercise-content">
+<p>Es gibt auch deutsche HTML-Kurse, wie zum Beispiel hier: <a class="reference external" href="https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg">SelfHTML</a>.
+Sie haben viel mehr Text, und weniger Möglichkeit zum Ausprobieren. Außerdem ist er schon ziemlich alt. Natürlich kannst du trotzdem diesen Kurs verwenden, wenn dir das lieber ist.</p>
+<p>Verwende die Kapitel 1 (Die ersten Schritte) und Kapitel 2 (Hypertext und Multimedia). Es gibt dort auch Übungen - löse sie!</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-write-html">
+
+<p class="admonition-title"><span class="caption-number">Exercise 32 </span> (HTML Anwenden)</p>
+<section id="exercise-content">
+<p>Lesen ist gut, schreiben ist besser. Erweitere deine HTML-Seite mit neuen Elementen, die du kennen gelernt hast.</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-css-tutorial-en">
+
+<p class="admonition-title"><span class="caption-number">Exercise 33 </span> (CSS)</p>
+<section id="exercise-content">
+<p><a class="reference external" href="https://www.w3schools.com/css/default.asp">W3Schools</a> hat auch gute CSS-Tutorials. Beginn mit folgenden Kapiteln:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.w3schools.com/css/default.asp">Home</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_intro.asp">Introduction</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_syntax.asp">Syntax</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_selectors.asp">Selectors</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_howto.asp">How To</a></p></li>
+</ul>
+<p>Danach kannst du hier hineinschauen:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_colors.asp">Colors</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_background.asp">Backgrounds</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_list.asp">Lists</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_link.asp">Links</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_text.asp">Text</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/css/css_font.asp">Fonts</a></p></li>
+</ul>
+<p>Du entscheidest selbst, welche Teile aus den Kapiteln für dich interessant sind. Du kannst nicht alles auf einmal lernen - man braucht dafür mehrere Monate oder sogar Jahre!</p>
+</section>
+</div>
+<div class="exercise admonition" id="exercise-css-tutorial-de">
+
+<p class="admonition-title"><span class="caption-number">Exercise 34 </span> (CSS)</p>
+<section id="exercise-content">
+<p>Es gibt auch deutsche CSS-Kurse, wie zum Beispiel hier: <a class="reference external" href="https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg">SelfHTML</a>.
+Sie haben viel mehr Text, und weniger Möglichkeit zum Ausprobieren. Außerdem ist er schon ziemlich alt. Natürlich kannst du trotzdem diesen Kurs verwenden, wenn dir das lieber ist.</p>
+<p>Verwende die Kapitel 3 (Gestaltung mit CSS) und Kapitel 3 (Layout mit CSS). Es gibt dort auch Übungen - löse sie!
+Du entscheidest selbst, welche Teile aus den Kapiteln für dich interessant sind. Du kannst nicht alles auf einmal lernen - man braucht dafür mehrere Monate oder sogar Jahre!</p>
+</section>
+</div>
 </section>
 
 
@@ -546,17 +682,17 @@ Das Datenpaket beeinhaltet:</p>
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="inkognito.html" title="zurück Seite">
+    <a class='left-prev' id="prev-link" href="02_www.html" title="zurück Seite">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">zurück</p>
-            <p class="prev-next-title">Inkognito-Modus</p>
+            <p class="prev-next-title">Das World Wide Web</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="suchmaschinen.html" title="weiter Seite">
+    <a class='right-next' id="next-link" href="04_seitenaufruf.html" title="weiter Seite">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">weiter</p>
-        <p class="prev-next-title">Suchmaschinen</p>
+        <p class="prev-next-title">Was passiert bei einem Seitenaufruf?</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

@@ -1,4 +1,4 @@
-# HTML und CSS
+# Webseiten mit HTML und CSS
 
 Seiten mit HTML und CSS zu erstellen ist etwas komplizierter als mit Markdwon. Dafür gibt es mehr Möglichkeiten zur Gestaltung.
 

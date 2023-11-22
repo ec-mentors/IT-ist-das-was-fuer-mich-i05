@@ -1,4 +1,4 @@
-# Website
+# Webseiten mit Markdown
 
 Auch wenn die Entwicklung von Webseiten über den Kurs hinaus geht,
 wollen wir uns doch anschauen, wie man einfach Webseiten erstellt
