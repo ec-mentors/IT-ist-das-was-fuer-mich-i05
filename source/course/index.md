@@ -8,4 +8,5 @@ Beschreibung was wir an diesem Tag vor haben.
 :glob:
 
 day_*/index
+week*/index
 ```
