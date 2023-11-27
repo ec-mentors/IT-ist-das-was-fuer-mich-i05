@@ -1,6 +1,6 @@
 # IT, ist das was für mich?
 
-## Wir sind die IT-Girls!
+## Wir sind die IT-Girls! 👩 💻 👩
 
  <img src="./participants/i5_Gruppenfoto.jpg" height="300px">
 
