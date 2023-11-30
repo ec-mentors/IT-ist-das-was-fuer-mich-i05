@@ -2,7 +2,9 @@
 
 **Wir programmieren!** 🤓 📝
 
-<img src="./lego-challenge-1.jpeg">
+Am Donnerstag und Freitag war die Space Challenge dran!
+
+<img src="./space_challenge.jpg">
 
 {download}`🎬 Slides <./slides.pdf>`
 
